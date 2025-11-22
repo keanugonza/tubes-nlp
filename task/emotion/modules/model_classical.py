@@ -1,4 +1,5 @@
 import joblib
+import os
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import LinearSVC
 from sklearn.pipeline import Pipeline
@@ -22,6 +23,24 @@ class ClassicalMLLabeler:
         self.model.fit(X, y)
         self.is_trained = True
         print("Training Complete.")
+
+    def save_model(self, path: str):
+        """
+        Saves the trained SVM pipeline to disk.
+        
+        Args:
+            path: Directory path where the model will be saved
+        """
+        if not self.is_trained:
+            raise Exception("Cannot save untrained model!")
+        
+        print(f"Saving classical model to {path}...")
+        if not os.path.exists(path):
+            os.makedirs(path)
+        
+        model_file = os.path.join(path, "classical_model.pkl")
+        joblib.dump(self.model, model_file)
+        print(f"Model saved successfully to {model_file}")
 
     def predict(self, texts: list) -> list:
         """Returns integer labels for a list of texts."""
