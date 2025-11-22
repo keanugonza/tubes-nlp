@@ -28,8 +28,10 @@ def main():
     ml_model = ClassicalMLLabeler()
     ml_model.train(train_df)
     ml_model.evaluate(test_df, target_names)
+    
+    ml_model.save_model("./saved_classical_model")
 
-        # 3. LLM (Qwen + LoRA)
+    # 3. LLM (Qwen + LoRA)
     print("\n--- Phase 3: LLM (Qwen LoRA) ---")
     dl_model = LLMLabeler(num_labels=len(dm.label_map), label_names=target_names)
     dl_model.train(train_df, test_df)
