@@ -1,0 +1,9063 @@
+{
+  "results": [
+    {
+      "id": "neg_0",
+      "ner": {
+        "entities": [
+          {
+            "text": "Sally Kirkland",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Frederic Forrest",
+            "label": "ACTOR"
+          },
+          {
+            "text": "comedy",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "sally kirkland",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "frederic forrest",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_1",
+      "ner": {
+        "entities": [
+          {
+            "text": "Robert DeNiro",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jane Fonda",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Swoozie Kurtz",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "robert deniro",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "jane fonda",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "swoozie kurtz",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_2",
+      "ner": {
+        "entities": [
+          {
+            "text": "Robert De Niro",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jane Fonda",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "robert de niro",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "jane fonda",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_3",
+      "ner": {
+        "entities": [
+          {
+            "text": "Union Street",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Schindler's List",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Fonda",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "fonda",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_4",
+      "ner": {
+        "entities": [
+          {
+            "text": "horror",
+            "label": "GENRE"
+          },
+          {
+            "text": "Vincent Price",
+            "label": "ACTOR"
+          },
+          {
+            "text": "thriller",
+            "label": "GENRE"
+          },
+          {
+            "text": "Patrick O'Neal",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Mary Murphy",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Eva Gabor",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jay Novello",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "vincent price",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "patrick o'neal",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "mary murphy",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "eva gabor",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "jay novello",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "neutral"
+      }
+    },
+    {
+      "id": "neg_5",
+      "ner": {
+        "entities": [
+          {
+            "text": "CHACE CRAWFORD",
+            "label": "ACTOR"
+          },
+          {
+            "text": "CHACE",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "chace crawford",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "chace",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_6",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_7",
+      "ner": {
+        "entities": [
+          {
+            "text": "Gangster",
+            "label": "GENRE"
+          },
+          {
+            "text": "Sebastians",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Tristan",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "drama",
+            "label": "GENRE"
+          },
+          {
+            "text": "action",
+            "label": "GENRE"
+          },
+          {
+            "text": "Vinnie Jones",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Vinnie",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "vinnie jones",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "vinnie",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_8",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_9",
+      "ner": {
+        "entities": [
+          {
+            "text": "thriller",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_10",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_11",
+      "ner": {
+        "entities": [
+          {
+            "text": "Corey Large",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Reload",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Sebastian Cole",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Loaded",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Brooke",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "corey large",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "neutral"
+      }
+    },
+    {
+      "id": "neg_12",
+      "ner": {
+        "entities": [
+          {
+            "text": "Requiem For A Dream",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Trainspotting",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Fear and Loathing in Las Vegas",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Candy",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Go",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Halfbaked",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Vinnie Jones",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Lock, Stock and Two Smokling Barrels",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Loaded",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "vinnie jones",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_13",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_14",
+      "ner": {
+        "entities": [
+          {
+            "text": "Tristan Price",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Jesse Metcalfe",
+            "label": "ACTOR"
+          },
+          {
+            "text": "April",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Nathalie Kelley",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Monica Keena",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "jesse metcalfe",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "nathalie kelley",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "monica keena",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_15",
+      "ner": {
+        "entities": [
+          {
+            "text": "Shark Attack 3",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Bad Taste",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Loaded",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_16",
+      "ner": {
+        "entities": [
+          {
+            "text": "Loaded",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Tristan Price",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Jesse Metcalfe",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Sebastian Cole",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Corey Large",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "jesse metcalfe",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "corey large",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_17",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_18",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_19",
+      "ner": {
+        "entities": [
+          {
+            "text": "Arnold Vosloo",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Arnold",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "arnold vosloo",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "arnold",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "neg_20",
+      "ner": {
+        "entities": [
+          {
+            "text": "Edward Furlong",
+            "label": "ACTOR"
+          },
+          {
+            "text": "terminator 2",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "edward furlong",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_21",
+      "ner": {
+        "entities": [
+          {
+            "text": "Michael Madsen",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Madsen",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "michael madsen",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "madsen",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_22",
+      "ner": {
+        "entities": [
+          {
+            "text": "Micheal Madsen",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Edward Furlong",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Arnold Vosloo",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "micheal madsen",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "edward furlong",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "arnold vosloo",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "surprise"
+      }
+    },
+    {
+      "id": "neg_23",
+      "ner": {
+        "entities": [
+          {
+            "text": "Michael Madsen",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Mr. Blonde",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "michael madsen",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_24",
+      "ner": {
+        "entities": [
+          {
+            "text": "Edward Furlong",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jon Keeyes",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "edward furlong",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "jon keeyes",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_25",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_26",
+      "ner": {
+        "entities": [
+          {
+            "text": "Michael Madsen",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "michael madsen",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_27",
+      "ner": {
+        "entities": [
+          {
+            "text": "Deniz Akkaya",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "deniz akkaya",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_28",
+      "ner": {
+        "entities": [
+          {
+            "text": "Michael Madsen",
+            "label": "ACTOR"
+          },
+          {
+            "text": "action",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "michael madsen",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_29",
+      "ner": {
+        "entities": [
+          {
+            "text": "Lars van Trier",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Breaking the Waves",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Dancer in the Night",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Dogville",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Europa",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Hitchcock",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Leopold Kessler",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Jean-Marc Barr",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Van Trier",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "lars van trier",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "jean-marc barr",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "van trier",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_30",
+      "ner": {
+        "entities": [
+          {
+            "text": "TMNT",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Splinter",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Leonardo",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Michelangleo",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Raphel",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Donatello",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Venus",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_31",
+      "ner": {
+        "entities": [
+          {
+            "text": "TMNT",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Venus",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Power Rangers",
+            "label": "MOVIE"
+          },
+          {
+            "text": "shredder",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "dragonlord",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "raph",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_32",
+      "ner": {
+        "entities": [
+          {
+            "text": "Ninja Turtles",
+            "label": "MOVIE"
+          },
+          {
+            "text": "TMNT",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Shredder",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Power Rangers",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Venus De Milo",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Next Mutation",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_33",
+      "ner": {
+        "entities": [
+          {
+            "text": "TMNT",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_34",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_35",
+      "ner": {
+        "entities": [
+          {
+            "text": "Sexo Cannibal",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Devil Hunter",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Laura Crawford",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Ursula Buchfellner",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ursula Fellner",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jane",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Gisela Hahn",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Chris",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Werner Pochath",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Thomas",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Antonio Mayans",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Peter Weston",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Al Cliver",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jack",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Burt Altman",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jesus Franco",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Franco",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Clifford Brown",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "ursula buchfellner",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "ursula fellner",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "gisela hahn",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "werner pochath",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "antonio mayans",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "al cliver",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "burt altman",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "jesus franco",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "franco",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "clifford brown",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_36",
+      "ner": {
+        "entities": [
+          {
+            "text": "horror",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "neutral"
+      }
+    },
+    {
+      "id": "neg_37",
+      "ner": {
+        "entities": [
+          {
+            "text": "Devil Hunter",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Jess Franco",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "The Diabolical Dr Z",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Venus in Furs",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Faceless",
+            "label": "MOVIE"
+          },
+          {
+            "text": "She Kills in Ecstasy",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "jess franco",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_38",
+      "ner": {
+        "entities": [
+          {
+            "text": "Al Cliver",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Laura Crawford",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Ursula Buchfellner",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Peter Weston",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Cliver",
+            "label": "ACTOR"
+          },
+          {
+            "text": "CANNIBALS",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Franco",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Gisela Hahn",
+            "label": "ACTOR"
+          },
+          {
+            "text": "CONTAMINATION",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Werner Pochath",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Antonio de Cabo",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jess",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Sabrina Siani",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "al cliver",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "ursula buchfellner",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "cliver",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "franco",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "gisela hahn",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "werner pochath",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "antonio de cabo",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "jess",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "sabrina siani",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "neg_39",
+      "ner": {
+        "entities": [
+          {
+            "text": "Terror Tales",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_40",
+      "ner": {
+        "entities": [
+          {
+            "text": "Laura",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Peter",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Jack",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Jess Franco",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Devil Hunter",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "jess franco",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "neg_41",
+      "ner": {
+        "entities": [
+          {
+            "text": "horror",
+            "label": "GENRE"
+          },
+          {
+            "text": "Pablito",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "neg_42",
+      "ner": {
+        "entities": [
+          {
+            "text": "Jess Franco",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Devil Hunter",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Bloody Moon",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Women Behind Bars",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Ursula Buchfellner",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Laura Crawford",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Peter Weston",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Al Cliver",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Franco",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "jess franco",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ursula buchfellner",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "al cliver",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "franco",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_43",
+      "ner": {
+        "entities": [
+          {
+            "text": "Ursula Buchfellner",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Laura",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Peter",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Al Cliver",
+            "label": "ACTOR"
+          },
+          {
+            "text": "The Beyond",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Zombie",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Antonio de Cabo",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Werner Pochath",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Muriel Montossé",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Antonio Mayans",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Angel of Death",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Burt Altman",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Aline Mess",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "ursula buchfellner",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "al cliver",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "antonio de cabo",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "werner pochath",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "muriel montossé",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "antonio mayans",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "burt altman",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "aline mess",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "neg_44",
+      "ner": {
+        "entities": [
+          {
+            "text": "Devil Hunter",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Cannibal Ferox",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Cut and Run",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Franco",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "franco",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_45",
+      "ner": {
+        "entities": [
+          {
+            "text": "King Kong",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Jess Franco",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "jess franco",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_46",
+      "ner": {
+        "entities": [
+          {
+            "text": "Laura Crawford",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Peter Weston",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "neutral"
+      }
+    },
+    {
+      "id": "neg_47",
+      "ner": {
+        "entities": [
+          {
+            "text": "Jesus Franco",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Devil Hunter",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Franco",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "jesus franco",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "franco",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_48",
+      "ner": {
+        "entities": [
+          {
+            "text": "Matthew Mconaughey",
+            "label": "ACTOR"
+          },
+          {
+            "text": "A Time to kill",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Newton Boys",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Patrick McGaw",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Frailty",
+            "label": "MOVIE"
+          },
+          {
+            "text": "How to Lose a Guy in 10 Days",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Edtv",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Amistad",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Larger Than Life",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Angels in the Outfield",
+            "label": "MOVIE"
+          },
+          {
+            "text": "MM",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Scorpion Spring",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "matthew mconaughey",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "patrick mcgaw",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "mm",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "neutral"
+      }
+    },
+    {
+      "id": "neg_49",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_50",
+      "ner": {
+        "entities": [
+          {
+            "text": "horror",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ending",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_51",
+      "ner": {
+        "entities": [
+          {
+            "text": "horror",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_52",
+      "ner": {
+        "entities": [
+          {
+            "text": "Angela Molina",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Mr Villaronga",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "angela molina",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_53",
+      "ner": {
+        "entities": [
+          {
+            "text": "El Mar",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Pan's Labyrinth",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Francisca",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Manuel",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Ramallo",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Almodovar",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Brother Sun, Sister Moon",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Pulp Fiction",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_54",
+      "ner": {
+        "entities": [
+          {
+            "text": "Goldie Hawn",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Nina Hartley",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Kurt Russell",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "goldie hawn",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "nina hartley",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "kurt russell",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "neg_55",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Man who Fell to Earth",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Protocol",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Goldie Hawn",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Everyone Says I Love You",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "goldie hawn",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_56",
+      "ner": {
+        "entities": [
+          {
+            "text": "Hawn",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Goldie",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "hawn",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "goldie",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_57",
+      "ner": {
+        "entities": [
+          {
+            "text": "Sean Connery",
+            "label": "ACTOR"
+          },
+          {
+            "text": "PROTOCOL",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Sunny Davis",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Goldie Hawn",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "sean connery",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "goldie hawn",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_58",
+      "ner": {
+        "entities": [
+          {
+            "text": "Emir of Ohtar",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Sunny Davis",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Goldie Hawn",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Sunny",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Goldie",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ben Kingsley",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Nastassia Kinski",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Harem",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Mr Smith Goes to Washington",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Cactus Flower",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Overboard",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Housesitter",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Protocol",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "goldie hawn",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "goldie",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ben kingsley",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "nastassia kinski",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_59",
+      "ner": {
+        "entities": [
+          {
+            "text": "Protocol",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Goldie Hawn",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Goldie",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "goldie hawn",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "goldie",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_60",
+      "ner": {
+        "entities": [
+          {
+            "text": "Goldie Hawn",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Protocol",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Hawn",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "goldie hawn",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "hawn",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_61",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Sunshine Boys",
+            "label": "MOVIE"
+          },
+          {
+            "text": "comedy",
+            "label": "GENRE"
+          },
+          {
+            "text": "Neil Simon",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Walter Matthau",
+            "label": "ACTOR"
+          },
+          {
+            "text": "George Burns",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Matthau",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Herbert Ross",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Ross",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Simon",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Walter",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "walter matthau",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "george burns",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "matthau",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "herbert ross",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ross",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "simon",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "walter",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_62",
+      "ner": {
+        "entities": [
+          {
+            "text": "SWING!",
+            "label": "MOVIE"
+          },
+          {
+            "text": "musicals",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_63",
+      "ner": {
+        "entities": [
+          {
+            "text": "Robert Duvall",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "robert duvall",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_64",
+      "ner": {
+        "entities": [
+          {
+            "text": "Robert DuVall",
+            "label": "ACTOR"
+          },
+          {
+            "text": "James Earl Jones",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Training Day",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "ending",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "robert duvall",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "james earl jones",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_65",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Amati Girls",
+            "label": "MOVIE"
+          },
+          {
+            "text": "comedy",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_66",
+      "ner": {
+        "entities": [
+          {
+            "text": "Gregor Jordan",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Buffalo Soldiers",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Ned Kelly",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Heath Ledger",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Francis Hare",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Geoffrey Rush",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Orlando Bloom",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Joseph Byrne",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Naomi Watts",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Julia Cook",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Laurence Kinlan",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Dan Kelly",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Philip Barantini",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Steve Hart",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Joel Edgerton",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Aaron Sherritt",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Kiri Paramore",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Constable Fitzpatrick",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Kerry Condon",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Kate Kelly",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Emily Browning",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Grace Kelly",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Rachel Griffiths",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Susan Scott",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Ledger",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "heath ledger",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "geoffrey rush",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "orlando bloom",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "naomi watts",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "laurence kinlan",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "philip barantini",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "joel edgerton",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "kiri paramore",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "kerry condon",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "emily browning",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "rachel griffiths",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "ledger",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "neutral"
+      }
+    },
+    {
+      "id": "neg_67",
+      "ner": {
+        "entities": [
+          {
+            "text": "Ned Kelly",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_68",
+      "ner": {
+        "entities": [
+          {
+            "text": "Ned aKelly",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Ned",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_69",
+      "ner": {
+        "entities": [
+          {
+            "text": "Heath Ledger",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Orlando Bloom",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Mick Jagger",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "heath ledger",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "orlando bloom",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "mick jagger",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_70",
+      "ner": {
+        "entities": [
+          {
+            "text": "Bloom",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ledger",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Rush",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "bloom",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ledger",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "rush",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_71",
+      "ner": {
+        "entities": [
+          {
+            "text": "Heath Ledger",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Naomi Watts",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ned Kelly",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Pearl Harbor",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Heath",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Orlando",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "heath ledger",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "naomi watts",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "heath",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "orlando",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_72",
+      "ner": {
+        "entities": [
+          {
+            "text": "Ned Kelly",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Robin Hood",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Jesse James",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Bonnie and Clyde",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Butch Cassidy and the Sundance Kid",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Dan",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Geoffrey Rush",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Heath Ledger",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "heath ledger",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "geoffrey rush",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_73",
+      "ner": {
+        "entities": [
+          {
+            "text": "Heath Ledger",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Naomi Watts",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Orlando Bloom",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Rachel Griffiths",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Geoffrey Rush",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Butch Cassidy",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Heath",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Black Knight",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Monty Python and the Holy Grail",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "heath ledger",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "naomi watts",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "orlando bloom",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "rachel griffiths",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "geoffrey rush",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "heath",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_74",
+      "ner": {
+        "entities": [
+          {
+            "text": "Man From Snowy River",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Butch Cassidy and the Sundance kid",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Ned",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Joe",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Ned Kelly",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Robin Hood",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Mick Jagger",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "mick jagger",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_75",
+      "ner": {
+        "entities": [
+          {
+            "text": "Ned Kelly",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Ledger",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Robin Hood",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Billy the Kid",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Costner",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Wyatt Earp",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Rush",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "ledger",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "costner",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "rush",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_76",
+      "ner": {
+        "entities": [
+          {
+            "text": "Ned Kelly",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Gregor Jordan",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "gregor jordan",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_77",
+      "ner": {
+        "entities": [
+          {
+            "text": "Ledger",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Edgerton",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Bloom",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Watts",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Rush",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ned Kelly",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Heath Ledger",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jordan",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Buffalo Soldiers",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "heath ledger",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ledger",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "edgerton",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "bloom",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "watts",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "rush",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "jordan",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_78",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_79",
+      "ner": {
+        "entities": [
+          {
+            "text": "Japp",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_80",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Amati Girls",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Deedee Pfieffer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Lori",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "deedee pfieffer",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_81",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_82",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_83",
+      "ner": {
+        "entities": [
+          {
+            "text": "Jill Dunne",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Mitzi Kapture",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Liv",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Martha MacIsaac",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Sean",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Rick Roberts",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Zack",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Richard Grant",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Nick Mancuso",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "mitzi kapture",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "martha macisaac",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "rick roberts",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "nick mancuso",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_84",
+      "ner": {
+        "entities": [
+          {
+            "text": "star wars",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_85",
+      "ner": {
+        "entities": [
+          {
+            "text": "Close Encounters of the Third Kind",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Satan's Cheerleaders",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Greydon Clark",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Final Justice",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Return",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Vincent Schiavelli",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ghost",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Cybill Shepherd",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Raymond Burr",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jan-Michael Vincent",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Bruce Willis",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Perry Mason",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Martin Landau",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Alone in the Dark",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Being",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "greydon clark",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "vincent schiavelli",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "cybill shepherd",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "raymond burr",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "jan-michael vincent",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "bruce willis",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "martin landau",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_86",
+      "ner": {
+        "entities": [
+          {
+            "text": "Love's Abiding Joy",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_87",
+      "ner": {
+        "entities": [
+          {
+            "text": "Missy",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_88",
+      "ner": {
+        "entities": [
+          {
+            "text": "Michael Landon Jr.",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Willie",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Missy",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "michael landon jr.",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_89",
+      "ner": {
+        "entities": [
+          {
+            "text": "Love's Abiding Joy",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Willie",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Missie",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Henry",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Clark",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Scottie",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Cookie",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Michael Landon, Jr",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "michael landon, jr",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_90",
+      "ner": {
+        "entities": [
+          {
+            "text": "Love's Abiding Joy",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Kathy",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Clark",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Missie",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Willie",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Scottie",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Cookie",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Marty",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_91",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_92",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_93",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Zombie Chronicles",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_94",
+      "ner": {
+        "entities": [
+          {
+            "text": "THE ZOMBIE CHRONICLES",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Emmy Smith",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Joseph Haggerty",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Brad Sykes",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "CAMP BLOOD",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Ed Wood",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "emmy smith",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "joseph haggerty",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "brad sykes",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ed wood",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_95",
+      "ner": {
+        "entities": [
+          {
+            "text": "Brad Sykes",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Camp Blood",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Joe Haggerty",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ebenezer Jackson",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "brad sykes",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "joe haggerty",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "neg_96",
+      "ner": {
+        "entities": [
+          {
+            "text": "Goddard",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Antonioni",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "goddard",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "antonioni",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_97",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_98",
+      "ner": {
+        "entities": [
+          {
+            "text": "Tara Woodley",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Sgt. Ben Draper",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "private Wilson",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "tara woodley",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_99",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Zombie Chronicles",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Stink of Flesh",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Fulci",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "fulci",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_100",
+      "ner": {
+        "entities": [
+          {
+            "text": "Jebidia",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "neg_101",
+      "ner": {
+        "entities": [
+          {
+            "text": "Brad Sykes",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Emmy Smith",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "emmy smith",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "special effects",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_102",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Zombie Chronicles",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Brad Sykes",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Garrett Clancy",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Sgt. Ben Draper",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "White Noise: The Light",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Owen Wilson",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "owen wilson",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_103",
+      "ner": {
+        "entities": [
+          {
+            "text": "Brad Sykes",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Camp Blood",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_104",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Zombie Chronicles",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Garrett Clancy",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Brad Sykes",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Joe Haggerty",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ebenezer Jackson",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Joe Castro",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "joe haggerty",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ending",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_105",
+      "ner": {
+        "entities": [
+          {
+            "text": "HUNTING SEASON",
+            "label": "MOVIE"
+          },
+          {
+            "text": "CAMP BLOOD",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Janet Margolin",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "janet margolin",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_106",
+      "ner": {
+        "entities": [
+          {
+            "text": "Brad Sykes",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ending",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_107",
+      "ner": {
+        "entities": [
+          {
+            "text": "Zombie Chronicles",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Joe Haggerty",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "ending",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "joe haggerty",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_108",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Zombie Chronicles",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_109",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": []
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_110",
+      "ner": {
+        "entities": [
+          {
+            "text": "Audrey Hepburn",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Robin and Marian",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Dorothy Stratten",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Gazzara",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Breakfast at Tiffany's",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Ann-Margret",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Love Among Thieves",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Robert Wagner",
+            "label": "ACTOR"
+          },
+          {
+            "text": "They all Laughed",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Lana Turner",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Two for the Road",
+            "label": "MOVIE"
+          },
+          {
+            "text": "John Ritter",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ben Gazarra",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Sandra Dee",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Lost",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Gardens of the World with Audrey Hepburn",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Spielberg",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Always",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Hap",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "My Fair Lady",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Garbo",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Delphine Seyrig",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Last Year at Marienbad",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Nun's Story",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Wait Until Dark",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Lee Remick",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "audrey hepburn",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "dorothy stratten",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "gazzara",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ann-margret",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "robert wagner",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "lana turner",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "john ritter",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ben gazarra",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "sandra dee",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "garbo",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "delphine seyrig",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "lee remick",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_111",
+      "ner": {
+        "entities": [
+          {
+            "text": "Dorothy Stratten",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Audrey Hepburn",
+            "label": "ACTOR"
+          },
+          {
+            "text": "John Ritter",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "dorothy stratten",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "audrey hepburn",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "john ritter",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_112",
+      "ner": {
+        "entities": [
+          {
+            "text": "John Ritter",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Dorothy Stratten",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Patti Hansen",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ben Stein",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Bogdanovich",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "john ritter",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "dorothy stratten",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "patti hansen",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ben stein",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_113",
+      "ner": {
+        "entities": [
+          {
+            "text": "They All Laughed",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Peter Bogdanovich",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Audrey Hepburn",
+            "label": "ACTOR"
+          },
+          {
+            "text": "John Ritter",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Dorothy Stratten",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ben Gazarra",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Brad Pitt",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Antonio Banderas",
+            "label": "ACTOR"
+          },
+          {
+            "text": "George Clooney",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Star 80",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Death of a Centerfold: The Dorothy Stratten Story",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Patti Hansen",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Keith Richards",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Roberto Carlos",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ben gazarra",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "brad pitt",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "antonio banderas",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "george clooney",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "dorothy stratten",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "patti hansen",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "keith richards",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "audrey hepburn",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "roberto carlos",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "john ritter",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_114",
+      "ner": {
+        "entities": [
+          {
+            "text": "Bogdonovich",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Woody Allen",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_115",
+      "ner": {
+        "entities": [
+          {
+            "text": "Bob Fosse",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Star 80",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Dorothy Stratten",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Bogdanovich",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Patty Hansen",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Orson Welles",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Audrey Hepburn",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Paper Moon",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Last Picture Show",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "dorothy stratten",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "patty hansen",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "audrey hepburn",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_116",
+      "ner": {
+        "entities": [
+          {
+            "text": "Ben G",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Dorothy S",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Galaxina",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Peter B",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Last Picture Show",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Target",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ben g",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "dorothy s",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_117",
+      "ner": {
+        "entities": [
+          {
+            "text": "John Ritter",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ben Gazarra",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Audrey Hepburn",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Patty Henson",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Colleen Camp",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Dorothy Stratten",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Peter Bogdanovich",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Cat's Meow",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Targets",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Nickleodeon",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Cybil Shepherd",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Moonlighting",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Paper Moon",
+            "label": "MOVIE"
+          },
+          {
+            "text": "What's Up, Doc",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "john ritter",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "ben gazarra",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "audrey hepburn",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "patty henson",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "colleen camp",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "dorothy stratten",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "cybil shepherd",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_118",
+      "ner": {
+        "entities": [
+          {
+            "text": "Peter Bogdonavitch",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Dorothy Stratten",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Patti Hanson",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Keith Richards",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "dorothy stratten",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "patti hanson",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "keith richards",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_119",
+      "ner": {
+        "entities": [
+          {
+            "text": "Ritter",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Bogdanovich",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Ms. Stratten",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ben Gazzara",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ms. Hepburn",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Colleen Camp",
+            "label": "ACTOR"
+          },
+          {
+            "text": "They All Laughed",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Dorothy Stratten",
+            "label": "ACTOR"
+          },
+          {
+            "text": "The Last Picture Show",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Paper Moon",
+            "label": "MOVIE"
+          },
+          {
+            "text": "What's Up, Doc",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Daisy Miller",
+            "label": "MOVIE"
+          },
+          {
+            "text": "At Long Last Love",
+            "label": "MOVIE"
+          },
+          {
+            "text": "P.B.",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Ernest Lubitsch",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Jaques Demy",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ritter",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "ms. stratten",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ben gazzara",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ms. hepburn",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "colleen camp",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "dorothy stratten",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_120",
+      "ner": {
+        "entities": [
+          {
+            "text": "Lucille Ball",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Rachel York",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Lucy",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "I Love Lucy",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Danny Pino",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Desi Arnaz",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ricky",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Fred",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Ethel",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "A&E Biography of Lucy and Desi",
+            "label": "MOVIE"
+          },
+          {
+            "text": "American Masters: Finding Lucy",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Before the Laughter",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "rachel york",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "lucille ball",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "danny pino",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "desi arnaz",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_121",
+      "ner": {
+        "entities": [
+          {
+            "text": "Lucille Ball",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Desi",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Lucie Arnaz",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Desi, Jr.",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "lucille ball",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "desi",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "lucie arnaz",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "desi, jr.",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_122",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_123",
+      "ner": {
+        "entities": [
+          {
+            "text": "Goodbye Columbus",
+            "label": "MOVIE"
+          },
+          {
+            "text": "I Am Curious, Lavender",
+            "label": "MOVIE"
+          },
+          {
+            "text": "I Am Curious, Black",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_124",
+      "ner": {
+        "entities": [
+          {
+            "text": "Godard",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Masculin, féminin",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Lena Nyman",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "lena nyman",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_125",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": []
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_126",
+      "ner": {
+        "entities": [
+          {
+            "text": "I Am Curious: Yellow",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Brown Bunny",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Vincent Gallo",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Chloe Sevigny",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "vincent gallo",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "chloe sevigny",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_127",
+      "ner": {
+        "entities": [
+          {
+            "text": "I AM CURIOUS-YELLOW",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Lena",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Ingmar Bergman",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "John Ford",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "neutral"
+      }
+    },
+    {
+      "id": "neg_128",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": []
+      },
+      "emotion": {
+        "emotion": "neutral"
+      }
+    },
+    {
+      "id": "neg_129",
+      "ner": {
+        "entities": [
+          {
+            "text": "I Am Curious",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Lena",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "neutral"
+      }
+    },
+    {
+      "id": "neg_130",
+      "ner": {
+        "entities": [
+          {
+            "text": "Tobias Schneebaum",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Keep The River To Your Right",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Don Juan",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_131",
+      "ner": {
+        "entities": [
+          {
+            "text": "Tobias Schneebaum",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_132",
+      "ner": {
+        "entities": [
+          {
+            "text": "Tobias Schneerbaum",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Keep the River On your Right",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": []
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_133",
+      "ner": {
+        "entities": [
+          {
+            "text": "Scream",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Scary Movie",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Godzilla",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Denise",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "denise",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_134",
+      "ner": {
+        "entities": [
+          {
+            "text": "Valentine",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Prom Night",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Carrie",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Scream",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": []
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_135",
+      "ner": {
+        "entities": [
+          {
+            "text": "Valentine",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Halloween",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Prom Night",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Carrie",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Jeremy",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Jason",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Shelley",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Jamie Blanks",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Michael Meyer",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Adam",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Kate",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Battlefield Earth",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_136",
+      "ner": {
+        "entities": [
+          {
+            "text": "Valentine",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Denise Richards",
+            "label": "ACTOR"
+          },
+          {
+            "text": "David Boreanaz",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Angel",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "music",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "denise richards",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "david boreanaz",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_137",
+      "ner": {
+        "entities": [
+          {
+            "text": "Scary Movie",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Valentine",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Screams",
+            "label": "MOVIE"
+          },
+          {
+            "text": "I know what you did last summers",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Urban Legends",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "ending",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_138",
+      "ner": {
+        "entities": [
+          {
+            "text": "Cupid",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "fear"
+      }
+    },
+    {
+      "id": "neg_139",
+      "ner": {
+        "entities": [
+          {
+            "text": "Denise Richards",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "denise richards",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_140",
+      "ner": {
+        "entities": [
+          {
+            "text": "Valentine",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Katherine Heigl",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Paige Prescott",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "katherine heigl",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_141",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": []
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_142",
+      "ner": {
+        "entities": [
+          {
+            "text": "Denise Richards",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "denise richards",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_143",
+      "ner": {
+        "entities": [
+          {
+            "text": "Scary Movie",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Shriek if you know what I did last Friday the 13th",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Valentine",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Halloween",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Scream",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Urban Legend",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_144",
+      "ner": {
+        "entities": [
+          {
+            "text": "Holy Grail",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Ron Hall",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Vampire Assassin",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "ron hall",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_145",
+      "ner": {
+        "entities": [
+          {
+            "text": "Valentine",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Batman",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Scream",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Norman Bates",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Jeremy Melton",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "David Boreanaz",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Angel",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Denise Richards",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Baywatch",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Cupid Killer",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "david boreanaz",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "denise richards",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_146",
+      "ner": {
+        "entities": [
+          {
+            "text": "Angel",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_147",
+      "ner": {
+        "entities": [
+          {
+            "text": "Valentine",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Halloween",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Friday the 13th",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Scream",
+            "label": "MOVIE"
+          },
+          {
+            "text": "I Know What You Did Last Summer",
+            "label": "MOVIE"
+          },
+          {
+            "text": "My Bloody Valentine",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Denise Richards",
+            "label": "ACTOR"
+          },
+          {
+            "text": "David Boreanaz",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Marley Shelton",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jessica Capshaw",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Katherine Heigl",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "denise richards",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "david boreanaz",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "marley shelton",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "jessica capshaw",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "katherine heigl",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_148",
+      "ner": {
+        "entities": [
+          {
+            "text": "Blade",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Vampire Assassin",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Ron Hall",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Buffy the Vampire Slayer",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Underworld",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ron hall",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_149",
+      "ner": {
+        "entities": [
+          {
+            "text": "Stephanie Beaham",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Bruce Lee",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "stephanie beaham",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "bruce lee",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_150",
+      "ner": {
+        "entities": [
+          {
+            "text": "horror",
+            "label": "GENRE"
+          },
+          {
+            "text": "Freaks",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Tod Browning",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Dracula",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Frankenstein",
+            "label": "MOVIE"
+          },
+          {
+            "text": "the Undying Monster",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Ernest Thesiger",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Paul Wegener",
+            "label": "ACTOR"
+          },
+          {
+            "text": "The Golem",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Ghost Train",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ernest thesiger",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "paul wegener",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_151",
+      "ner": {
+        "entities": [
+          {
+            "text": "vampire movie",
+            "label": "GENRE"
+          },
+          {
+            "text": "the Matrix",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_152",
+      "ner": {
+        "entities": [
+          {
+            "text": "Spielberg",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Celie",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Shug Avery",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Nettie",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Miss Millie",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Harpo",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Sophia",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Oprah",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Schindler's List",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Saving Private Ryan",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "oprah",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_153",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Color Purple",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Celie",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Nettie",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Albert Johnson",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Stanley Kubrick",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Gone With The Wind",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Song of the South",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Halleluha!",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Home Alone",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Griffith",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_154",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_155",
+      "ner": {
+        "entities": [
+          {
+            "text": "Insomnia",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "martial arts film",
+            "label": "GENRE"
+          },
+          {
+            "text": "Zu Warriors",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Ray Harryhausen",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Xena: Warrior Princess",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_156",
+      "ner": {
+        "entities": [
+          {
+            "text": "Zu Warriors",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Uwe Boll",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Inu-Yasha",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_157",
+      "ner": {
+        "entities": [
+          {
+            "text": "Chinese epic films",
+            "label": "GENRE"
+          },
+          {
+            "text": "Chinese epic fantasy film",
+            "label": "GENRE"
+          },
+          {
+            "text": "the Promise",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_158",
+      "ner": {
+        "entities": [
+          {
+            "text": "Susan Sarandon",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Roger Spottiswoode",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "susan sarandon",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_159",
+      "ner": {
+        "entities": [
+          {
+            "text": "Susan Sarandon",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "susan sarandon",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_160",
+      "ner": {
+        "entities": [
+          {
+            "text": "western",
+            "label": "GENRE"
+          },
+          {
+            "text": "Buffalo Bill",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Wild Bill Hickok",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Calamity Jane",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Gary Cooper",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jean Arthur",
+            "label": "ACTOR"
+          },
+          {
+            "text": "James Ellison",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "gary cooper",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "jean arthur",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "james ellison",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_161",
+      "ner": {
+        "entities": [
+          {
+            "text": "Mickey Mouse",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "John Wayne",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Pat Boone",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Shirley Jones",
+            "label": "ACTOR"
+          },
+          {
+            "text": "western",
+            "label": "GENRE"
+          },
+          {
+            "text": "April Love",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Ishtar",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Plan 9 from Outer Space",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "pat boone",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "shirley jones",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "john wayne",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_162",
+      "ner": {
+        "entities": [
+          {
+            "text": "james belushi",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "james belushi",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_163",
+      "ner": {
+        "entities": [
+          {
+            "text": "Turturro",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Luzhin",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Rain Man",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "turturro",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_164",
+      "ner": {
+        "entities": [
+          {
+            "text": "Star Trek",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Enterprise",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Vulcan",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_165",
+      "ner": {
+        "entities": [
+          {
+            "text": "Voyager",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Enterprise",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Scott Bakula",
+            "label": "ACTOR"
+          },
+          {
+            "text": "TOS",
+            "label": "MOVIE"
+          },
+          {
+            "text": "TNG",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Kirk",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Capt. Archer",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Blalock",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "scott bakula",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "blalock",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "mixed"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_166",
+      "ner": {
+        "entities": [
+          {
+            "text": "Star Trek",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Enterprise",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Archer",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "T'pol",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Hoshi",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_167",
+      "ner": {
+        "entities": [
+          {
+            "text": "Borg",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Enterprise",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Klingons",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Kirk",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Berman",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Pilliar",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Gene Roddenberry",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Majel Barrett",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Bakula",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Deep Space 9",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "majel barrett",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "bakula",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_168",
+      "ner": {
+        "entities": [
+          {
+            "text": "Star Trek",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Rick Berman",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Brannon Braga",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Jolene Blaylock",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Enterprise",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Battlestar: Galactica",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Shield",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "jolene blaylock",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_169",
+      "ner": {
+        "entities": [
+          {
+            "text": "Stairway to Heaven",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_170",
+      "ner": {
+        "entities": [
+          {
+            "text": "David Niven",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "david niven",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_171",
+      "ner": {
+        "entities": [
+          {
+            "text": "Hedy Burress",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Friday The 13th Part 2",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Scream 3",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Urban Legend 2",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "hedy burress",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_172",
+      "ner": {
+        "entities": [
+          {
+            "text": "Return to Cabin by the Lake",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Stanley",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Urban Legends",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Blair Witch",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_173",
+      "ner": {
+        "entities": [
+          {
+            "text": "Judd Nelson",
+            "label": "ACTOR"
+          },
+          {
+            "text": "CABIN BY THE LAKE",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "judd nelson",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_174",
+      "ner": {
+        "entities": [
+          {
+            "text": "Return to Cabin by the Lake",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Cabin by the Lake",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Judd Nelson",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Alison",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Stanley Caldwell",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Dahlia Salem",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Mike",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "judd nelson",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "dahlia salem",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_175",
+      "ner": {
+        "entities": [
+          {
+            "text": "Cabin by the Lake",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Return of Return to The Cabin by the Lake",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_176",
+      "ner": {
+        "entities": [
+          {
+            "text": "Stanley",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Cabin by the Lake 3",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Judd Nelson",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "judd nelson",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_177",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_178",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_179",
+      "ner": {
+        "entities": [
+          {
+            "text": "Return to Cabin by the Lake",
+            "label": "MOVIE"
+          },
+          {
+            "text": "CBTL",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_180",
+      "ner": {
+        "entities": [
+          {
+            "text": "Stanley Kaldwell",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Brian Krause",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Alison",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Dahlia Salem",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Andrew Moxham",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Paul Parsons",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Nelson",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Po-Chih Leong",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "brian krause",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "dahlia salem",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "andrew moxham",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "nelson",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_181",
+      "ner": {
+        "entities": [
+          {
+            "text": "Return To Cabin By The Lake",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Cabin By The Lake",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Horror",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_182",
+      "ner": {
+        "entities": [
+          {
+            "text": "horror",
+            "label": "GENRE"
+          },
+          {
+            "text": "action",
+            "label": "GENRE"
+          },
+          {
+            "text": "crime",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_183",
+      "ner": {
+        "entities": [
+          {
+            "text": "Western",
+            "label": "GENRE"
+          },
+          {
+            "text": "James Steart",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Walter Brennan",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Royal Dano",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Harry Morgan",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "james steart",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "walter brennan",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "royal dano",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "harry morgan",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_184",
+      "ner": {
+        "entities": [
+          {
+            "text": "Mann",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Jimmy Stewart",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Walter Brennan",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "jimmy stewart",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "walter brennan",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_185",
+      "ner": {
+        "entities": [
+          {
+            "text": "Mann",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Stewart",
+            "label": "ACTOR"
+          },
+          {
+            "text": "John Ford",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "My Darling Clementine",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Red River",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Bend",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Far",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Man of the West",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Furies",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Winchester 73",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Naked Spur",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Far Country",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Mc Entire",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Man from Laramie",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Gary Cooper",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jack Lord",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "stewart",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "mc entire",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "gary cooper",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "jack lord",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "neg_186",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Far Country",
+            "label": "MOVIE"
+          },
+          {
+            "text": "James Stewart",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Walter Brennan",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Gannon",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "james stewart",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "walter brennan",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_187",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": []
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_188",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_189",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_190",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Fast And The Furious",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_191",
+      "ner": {
+        "entities": [
+          {
+            "text": "A river runs through it",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Redford",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "redford",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ending",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_192",
+      "ner": {
+        "entities": [
+          {
+            "text": "Paul",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Brad Pitt",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Norm",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "brad pitt",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_193",
+      "ner": {
+        "entities": [
+          {
+            "text": "Norman Maclean",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Redford",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Brad Pitt",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Paul Maclean",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Tom Skerritt",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Craig Sheffer",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "brad pitt",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "tom skerritt",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "craig sheffer",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_194",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Alamo:Thirteen Days to Glory",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_195",
+      "ner": {
+        "entities": [
+          {
+            "text": "James Arness",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jim Bowie",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Brian Keith",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Davy Crockett",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Alec Baldwin",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Col. Travis",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Raul Julia",
+            "label": "ACTOR"
+          },
+          {
+            "text": "General Santa Anna",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "David Ogden Stiers",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Kathleen York",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jim Metzler",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "james arness",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "brian keith",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "alec baldwin",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "raul julia",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "david ogden stiers",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "kathleen york",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "jim metzler",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "neutral"
+      }
+    },
+    {
+      "id": "neg_196",
+      "ner": {
+        "entities": [
+          {
+            "text": "Hollywood Squares",
+            "label": "SERIES"
+          },
+          {
+            "text": "John Wayne",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Fess Parker",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "john wayne",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "fess parker",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disappointment"
+      }
+    },
+    {
+      "id": "neg_197",
+      "ner": {
+        "entities": [
+          {
+            "text": "James Arness",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Alamo",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Brian Keith",
+            "label": "ACTOR"
+          },
+          {
+            "text": "western",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "james arness",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "brian keith",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_198",
+      "ner": {
+        "entities": [
+          {
+            "text": "Burt Kennedy",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "The Last Command",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Raul Julia",
+            "label": "ACTOR"
+          },
+          {
+            "text": "John Wayne",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "raul julia",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "john wayne",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_199",
+      "ner": {
+        "entities": [
+          {
+            "text": "Clancy Brown",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Michael Pollard",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "clancy brown",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "michael pollard",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ending",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    }
+  ]
+}
