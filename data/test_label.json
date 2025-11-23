@@ -1,0 +1,4799 @@
+{
+  "results": [
+    {
+      "id": "pos_601",
+      "ner": {
+        "entities": [
+          {
+            "text": "Michael Pollard",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "michael pollard",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "surprise"
+      }
+    },
+    {
+      "id": "pos_602",
+      "ner": {
+        "entities": [
+          {
+            "text": "Carlos Saura",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Iberia",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "carlos saura",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "iberia",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_603",
+      "ner": {
+        "entities": [
+          {
+            "text": "Saura",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Carmen",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "music",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "saura",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "carmen",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_604",
+      "ner": {
+        "entities": [
+          {
+            "text": "Carlos Saura",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Iberia Suite",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Saura",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "carlos saura",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "saura",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_605",
+      "ner": {
+        "entities": [
+          {
+            "text": "Saura",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Iberia",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Blood Wedding",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Carmen",
+            "label": "MOVIE"
+          },
+          {
+            "text": "El Amore Brujo",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Sevillanas",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Salomé",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Tango",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Flamenco",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Antonio Gades",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "saura",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "iberia",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "flamenco",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "antonio gades",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "neutral"
+      }
+    },
+    {
+      "id": "pos_606",
+      "ner": {
+        "entities": [
+          {
+            "text": "Saura",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Ibéria",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "saura",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ibéria",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_607",
+      "ner": {
+        "entities": [
+          {
+            "text": "De Niro",
+            "label": "ACTOR"
+          },
+          {
+            "text": "witch",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "de niro",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_608",
+      "ner": {
+        "entities": [
+          {
+            "text": "fantasy",
+            "label": "GENRE"
+          },
+          {
+            "text": "Claire Danes",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Michelle Pfeiffer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Robert De Niro",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Stardust",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "claire danes",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "michelle pfeiffer",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "robert de niro",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "stardust",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_609",
+      "ner": {
+        "entities": [
+          {
+            "text": "Stardust",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Claire Danes",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Michelle Pfeiffer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Robert Deniro",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Charlie Cox",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Tristan",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Mark Strong",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jason Flemyng",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ruppert Everett",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Peter O'Toole",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ricky Gervais",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "stardust",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "claire danes",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "michelle pfeiffer",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "robert deniro",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "charlie cox",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "mark strong",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "jason flemyng",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ruppert everett",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "peter o'toole",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ricky gervais",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_610",
+      "ner": {
+        "entities": [
+          {
+            "text": "Stardust",
+            "label": "MOVIE"
+          },
+          {
+            "text": "fantasy",
+            "label": "GENRE"
+          },
+          {
+            "text": "Yvaine",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Victoria",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Claire Danes",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Cox",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "stardust",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "claire danes",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "cox",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_611",
+      "ner": {
+        "entities": [
+          {
+            "text": "Rush Hour",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Bourn Ultimatum",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Simpsons Movie",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Stardust",
+            "label": "MOVIE"
+          },
+          {
+            "text": "fantasy",
+            "label": "GENRE"
+          },
+          {
+            "text": "fairytale",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "rush hour",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "the bourn ultimatum",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "the simpsons movie",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "stardust",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "pos_612",
+      "ner": {
+        "entities": [
+          {
+            "text": "Princess Bride",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Stardust",
+            "label": "MOVIE"
+          },
+          {
+            "text": "fantasy",
+            "label": "GENRE"
+          },
+          {
+            "text": "sci-fi",
+            "label": "GENRE"
+          },
+          {
+            "text": "Return of the King",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "princess bride",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "stardust",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "return of the king",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_613",
+      "ner": {
+        "entities": [
+          {
+            "text": "StarDust",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Robert De Niro",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Michelle Pfeiffer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Claire Danes",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Yvaine",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Captain Shakespeare",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Lamia",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "stardust",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "robert de niro",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "michelle pfeiffer",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "claire danes",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_614",
+      "ner": {
+        "entities": [
+          {
+            "text": "Stardust",
+            "label": "MOVIE"
+          },
+          {
+            "text": "David Kelly",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ben Barnes",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Una",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Tristan",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Charlie Cox",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Victoria",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Sienna Miller",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Peter O'Toole",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Primus",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Secondus",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Sextmus",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Septimus",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Yvaine",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Clare Danes",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Lamia",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Michelle Pfeiffer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Pirates of the Caribbean",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Robert DeNiro",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jason Flemyng",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Adam Buston",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Rupert Everett",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Mark Strong",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Blithe Spirit",
+            "label": "MOVIE"
+          },
+          {
+            "text": "High Spirits",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Matthew Vaughn",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Layer Cake",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "stardust",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "david kelly",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ben barnes",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "charlie cox",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "sienna miller",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "peter o'toole",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "clare danes",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "michelle pfeiffer",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "robert deniro",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "jason flemyng",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "adam buston",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "rupert everett",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "mark strong",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "matthew vaughn",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_615",
+      "ner": {
+        "entities": [
+          {
+            "text": "Danes",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Deniro",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Pfieffer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Tristan",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "danes",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "deniro",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "pfieffer",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ending",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_616",
+      "ner": {
+        "entities": [
+          {
+            "text": "Stardust",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Mirrormask",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Pan's Labyrinth",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Princess Bride",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Tristan",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Yvaine",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Robert DeNiro",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Brazil",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "stardust",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "robert deniro",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_617",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Princess Bride",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Charlie Cox",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Tristan",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Sienna Miller",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Claire Danes",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Michelle Pfeiffer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Peter O'Toole",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Robert Deniro",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Captain Shakespeare",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Ricky Gervais",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Matthew Vaughn",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Layer Cake",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "charlie cox",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "sienna miller",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "claire danes",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "michelle pfeiffer",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "peter o'toole",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "robert deniro",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ricky gervais",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "matthew vaughn",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_618",
+      "ner": {
+        "entities": [
+          {
+            "text": "peter pan",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_619",
+      "ner": {
+        "entities": [
+          {
+            "text": "Charlie Cox",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Claire Danes",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Romeo and Juliet",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Robert DeNiro",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Michelle Pfeiffer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Septimus",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Hairspray",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Ricky Gervais",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Peter O'Toole",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Princess Bride",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Lord of the Rings",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "charlie cox",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "claire danes",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "robert deniro",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "michelle pfeiffer",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ricky gervais",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "peter o'toole",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_620",
+      "ner": {
+        "entities": [
+          {
+            "text": "Stardust",
+            "label": "MOVIE"
+          },
+          {
+            "text": "MirrorMask",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Labyrinth",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Princess Bride",
+            "label": "MOVIE"
+          },
+          {
+            "text": "10th Kingdom",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Tristan",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Tristran",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "stardust",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ending",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_621",
+      "ner": {
+        "entities": [
+          {
+            "text": "Rupert Everett",
+            "label": "ACTOR"
+          },
+          {
+            "text": "David Walliams",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Little Britain",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Green Wing",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Ricky Gervais",
+            "label": "ACTOR"
+          },
+          {
+            "text": "David Brent",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "The Office",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Ferdy",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Charlie Cox",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Tristan",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Claire Danes",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Yvaine",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Robert De Niro",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Michelle Pfeiffer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Lamia",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Hairspray",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Princess Bride",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Stardust",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "stardust",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "rupert everett",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "david walliams",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ricky gervais",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "charlie cox",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "claire danes",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "robert de niro",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "michelle pfeiffer",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "princess bride",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_622",
+      "ner": {
+        "entities": [
+          {
+            "text": "Stardust",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Michelle Pfeiffer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Velma Von Tussle",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Hairspray",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Robert De Niro",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Claire Danes",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Rupert Everett",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ricky Gervais",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Peter O'Toole",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Sienna Miller",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Olivia Grant",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Girl Bernard",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Kate Magowan",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Charlie Cox",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Tristan",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Dunstan",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Ben Barnes",
+            "label": "ACTOR"
+          },
+          {
+            "text": "The Princess Bride",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "stardust",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "michelle pfeiffer",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "robert de niro",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "claire danes",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "rupert everett",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ricky gervais",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "peter o'toole",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "sienna miller",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "olivia grant",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "kate magowan",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "charlie cox",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ben barnes",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_623",
+      "ner": {
+        "entities": [
+          {
+            "text": "Stardust",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Princess Bride",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Michelle Pfeiffer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Robert DeNiro",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "stardust",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "the princess bride",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "michelle pfeiffer",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "robert deniro",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_624",
+      "ner": {
+        "entities": [
+          {
+            "text": "Ella Enchanted",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Princess Bride",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Bourne Ultimatum",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Stardust",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Transformers",
+            "label": "MOVIE"
+          },
+          {
+            "text": "LotR",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Black Cauldron",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Dark Crystal",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "stardust",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "bourne ultimatum",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "transformers",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_625",
+      "ner": {
+        "entities": [
+          {
+            "text": "Stardust",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Charlie Cox",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Tristan",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Claire Daines",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Yvaine",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Robert Di Nero",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Captain Shakespeare",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Shrek",
+            "label": "MOVIE"
+          },
+          {
+            "text": "LOTR",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Star Wars",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Princess Bride",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "stardust",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "charlie cox",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "claire daines",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "robert di nero",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_626",
+      "ner": {
+        "entities": [
+          {
+            "text": "Tristan",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Victoria",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Sienna Miller",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Yvaine",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Claire Danes",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Michelle Pfeiffer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Captain Shakespeare",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Robert de Niro",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ricky Gervais",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Stardust",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Harry Potter",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "sienna miller",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "claire danes",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "michelle pfeiffer",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "robert de niro",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ricky gervais",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "stardust",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_627",
+      "ner": {
+        "entities": [
+          {
+            "text": "Robert DeNiro",
+            "label": "ACTOR"
+          },
+          {
+            "text": "THE PRINCESS BRIDE",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "robert deniro",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_628",
+      "ner": {
+        "entities": [
+          {
+            "text": "Princess Bride",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Robert DeNiro",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "robert deniro",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_629",
+      "ner": {
+        "entities": [
+          {
+            "text": "Lord of the Rings",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Harry Potter",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Chronicles of Narnia",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Golden Compass",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Stardust",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Bourne Ultimatum",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Princess Bride",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "stardust",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_630",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ending",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_631",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_632",
+      "ner": {
+        "entities": [
+          {
+            "text": "Michelle Pfeiffer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Charlie Cox",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Tristan",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Claire Danes",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Robert De Niro",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "michelle pfeiffer",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "charlie cox",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "claire danes",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "robert de niro",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ending",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_633",
+      "ner": {
+        "entities": [
+          {
+            "text": "Stardust",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Transformers",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Lord of Rings",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Eragon",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Shrek",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Michelle Pfieffer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Rupert Everett",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Peter O'Toole",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ricky Gervais",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Robert De Niro",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Charlie Cox",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Claire Danes",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Potter",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Septimus",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Tristan",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "THE PRINCESS BRIDE",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "stardust",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "michelle pfieffer",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "rupert everett",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "peter o'toole",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ricky gervais",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "robert de niro",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "charlie cox",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "claire danes",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_634",
+      "ner": {
+        "entities": [
+          {
+            "text": "Stardust",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Tristan",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "The Princess Bride",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Claire Danes",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Yvaine",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Michelle Pfeiffer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Larnia",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Robert De Niro",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "stardust",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "claire danes",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "michelle pfeiffer",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "robert de niro",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_635",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_636",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Princess Bride",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Labyrinth",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Robert DeNiro",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Charlie Cox",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Claire Danes",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Michelle Pfiefer",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "robert deniro",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "charlie cox",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "claire danes",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "michelle pfiefer",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_637",
+      "ner": {
+        "entities": [
+          {
+            "text": "Jeremy Sumpter",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "jeremy sumpter",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_638",
+      "ner": {
+        "entities": [
+          {
+            "text": "Jeremy Sumpter",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Dean Cain",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Christopher Lloyd",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Mare Winningham",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Kirsten Storms",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Pete Young",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "jeremy sumpter",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "dean cain",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "christopher lloyd",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "mare winningham",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "kirsten storms",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_639",
+      "ner": {
+        "entities": [
+          {
+            "text": "Joan of Arcadia",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Clubhouse",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Jeremy Sumpter",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Pete Young",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Dean Cain",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Christopher Lloyd",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Mare Winningham",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Kirsten Storms",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Betsy",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "clubhouse",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "jeremy sumpter",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "dean cain",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "christopher lloyd",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "mare winningham",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "kirsten storms",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_640",
+      "ner": {
+        "entities": [
+          {
+            "text": "pete",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Jeremy sumpter",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "jeremy sumpter",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_641",
+      "ner": {
+        "entities": [
+          {
+            "text": "Dawson's Creek",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Jeremy Sumpter",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "jeremy sumpter",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_642",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": []
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_643",
+      "ner": {
+        "entities": [
+          {
+            "text": "La Maman et la putain",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Jean Eustache",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Mes petites amoureuses",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Le Père Noël",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Véronika",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Alphaville",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Tempest",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Winter's Tale",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Alexandre",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Vertigo",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Scottie",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Léaud",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Truffaut",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Godard",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Irma Vep",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Le Pornographe",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Antoine Doinel",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Bresson",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "la maman et la putain",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "léaud",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "neutral"
+      }
+    },
+    {
+      "id": "pos_644",
+      "ner": {
+        "entities": [
+          {
+            "text": "Jean Pierre Leaud",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Lebrun",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "jean pierre leaud",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "lebrun",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_645",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": []
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_646",
+      "ner": {
+        "entities": [
+          {
+            "text": "Jean Pierre Leaud",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Lebrun",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "jean pierre leaud",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "lebrun",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_647",
+      "ner": {
+        "entities": [
+          {
+            "text": "La Maman et La Putain",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Grushenka",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "la maman et la putain",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_648",
+      "ner": {
+        "entities": [
+          {
+            "text": "Alexandre",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Marie",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Gilberte",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Veronika",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "La Maman et la putain",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Jean Eustache",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Françoise Lebrun",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Lebrun",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Léaud",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "la maman et la putain",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "françoise lebrun",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "lebrun",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "léaud",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_649",
+      "ner": {
+        "entities": [
+          {
+            "text": "Jean Pierre Leaud",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jean Eustache",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "jean pierre leaud",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "jean eustache",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "pos_650",
+      "ner": {
+        "entities": [
+          {
+            "text": "Alexandre",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": []
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "neg_601",
+      "ner": {
+        "entities": [
+          {
+            "text": "DEATH LINE",
+            "label": "MOVIE"
+          },
+          {
+            "text": "horror",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "death line",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_602",
+      "ner": {
+        "entities": [
+          {
+            "text": "Deathline",
+            "label": "MOVIE"
+          },
+          {
+            "text": "horror",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_603",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_604",
+      "ner": {
+        "entities": [
+          {
+            "text": "white noise",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_605",
+      "ner": {
+        "entities": [
+          {
+            "text": "28 days later",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Blair Witch Project",
+            "label": "MOVIE"
+          },
+          {
+            "text": "horror",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "28 days later",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "blair witch project",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_606",
+      "ner": {
+        "entities": [
+          {
+            "text": "Creep",
+            "label": "MOVIE"
+          },
+          {
+            "text": "horror",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "creep",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_607",
+      "ner": {
+        "entities": [
+          {
+            "text": "Deathline",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Raw Meat",
+            "label": "MOVIE"
+          },
+          {
+            "text": "American Werewolf in London",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Creep",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Potente",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Craig",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "X Files",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Tombs",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Mulder",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Scully",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Ken Campbell",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "creep",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "potente",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ken campbell",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_608",
+      "ner": {
+        "entities": [
+          {
+            "text": "Creep",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Kate",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Potente",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Guy",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "George",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Blackwood",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "creep",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "potente",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "blackwood",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_609",
+      "ner": {
+        "entities": [
+          {
+            "text": "Christopher Walken",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Michael Ironside",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Maria Conchita Alonso",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "christopher walken",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "michael ironside",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "maria conchita alonso",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_610",
+      "ner": {
+        "entities": [
+          {
+            "text": "Christopher Walken",
+            "label": "ACTOR"
+          },
+          {
+            "text": "McBain",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "christopher walken",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "mcbain",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_611",
+      "ner": {
+        "entities": [
+          {
+            "text": "James Glickenhaus",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "McBain",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Exterminator",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Victor Argo",
+            "label": "ACTOR"
+          },
+          {
+            "text": "El Presidente",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Maria Conchita Alonso",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "mcbain",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "victor argo",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "maria conchita alonso",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "neg_612",
+      "ner": {
+        "entities": [
+          {
+            "text": "SCARECROW",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Matrix",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "scarecrow",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_613",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_614",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "sadness"
+      }
+    },
+    {
+      "id": "neg_615",
+      "ner": {
+        "entities": [
+          {
+            "text": "horror",
+            "label": "GENRE"
+          },
+          {
+            "text": "Scarecrow Slayer",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Ring",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Exorcist of Emily Rose",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Scarecrow",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Children Of The Corn",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "scarecrow slayer",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "scarecrow",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_616",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": []
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_617",
+      "ner": {
+        "entities": [
+          {
+            "text": "Lester",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_618",
+      "ner": {
+        "entities": [
+          {
+            "text": "Freddy",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Pinhead",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Lester",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_619",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "neg_620",
+      "ner": {
+        "entities": [
+          {
+            "text": "Scarecreow",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Scarecrow",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "scarecrow",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_621",
+      "ner": {
+        "entities": [
+          {
+            "text": "Steven King",
+            "label": "PERSON"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_622",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_623",
+      "ner": {
+        "entities": [
+          {
+            "text": "Scarecrow",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Lester Dwervick",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Tim Young",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Emmanuel Itier",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Mr. Duforq",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "The Matrix",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Scarecrows",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Gene Hackman",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Al Pacino",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Scarecrow Slayer",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Scarecrow Gone Wild",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "scarecrow",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "tim young",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "emmanuel itier",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "gene hackman",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "al pacino",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_624",
+      "ner": {
+        "entities": [
+          {
+            "text": "Dario Argento",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "George A. Romero",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Tobe Hooper",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "dario argento",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "george a. romero",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "tobe hooper",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_625",
+      "ner": {
+        "entities": [
+          {
+            "text": "lester",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_626",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_627",
+      "ner": {
+        "entities": [
+          {
+            "text": "Scarecrow",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_628",
+      "ner": {
+        "entities": [
+          {
+            "text": "Emmanuel",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "emmanuel",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_629",
+      "ner": {
+        "entities": [
+          {
+            "text": "Frankenfish",
+            "label": "MOVIE"
+          },
+          {
+            "text": "horror",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "frankenfish",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "neg_630",
+      "ner": {
+        "entities": [
+          {
+            "text": "Scarecrow",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Lester",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Judy",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "scarecrow",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_631",
+      "ner": {
+        "entities": [
+          {
+            "text": "Freddy Krueger",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Arnold Swartzenegger",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jason Voorhees",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Pinhead",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Chucky",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Angela",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Sleepaway Camp",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Slumber Party Massacre III",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Jason X",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "arnold swartzenegger",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "sleepaway camp",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "slumber party massacre iii",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "jason x",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_632",
+      "ner": {
+        "entities": [
+          {
+            "text": "Lazarus",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Ghost in the Machine",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Sophia",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "lazarus",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ghost in the machine",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_633",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Good Earth",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Walter Connolly",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "the good earth",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "walter connolly",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_634",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Good Earth",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Paul Muni",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Tony",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Scarface",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Ms. Rainer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "The Grapes of Wrath",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "the good earth",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "paul muni",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "scarface",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ms. rainer",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "the grapes of wrath",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "cinematography",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_635",
+      "ner": {
+        "entities": [
+          {
+            "text": "Luise Rainer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "The Good Earth",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Paul Muni",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Al Pacino",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "luise rainer",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "the good earth",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "paul muni",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "al pacino",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_636",
+      "ner": {
+        "entities": [
+          {
+            "text": "Wang Lung",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Paul Muni",
+            "label": "ACTOR"
+          },
+          {
+            "text": "O-Lan",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Luis Rainer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Luise Rainer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Franklin",
+            "label": "DIRECTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "paul muni",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "luis rainer",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "luise rainer",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "franklin",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ending",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_637",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Good Earth",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Luis Rainer",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Paul Muni",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Wang Lung",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "the good earth",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "luis rainer",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "paul muni",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_638",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Good Earth",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Paul Muni",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "the good earth",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "paul muni",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_639",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Return of the Soldier",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Glenda Jackson",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ann-Margret",
+            "label": "ACTOR"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "the return of the soldier",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "glenda jackson",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "ann-margret",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_640",
+      "ner": {
+        "entities": [
+          {
+            "text": "Glenda Jackson",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Julie Christie",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Alan Bates",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Alan Bridges",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "Ann-Margret",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Ian Holm",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Soldier",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "glenda jackson",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "julie christie",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "alan bates",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "alan bridges",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ann-margret",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "ian holm",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "soldier",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_641",
+      "ner": {
+        "entities": [
+          {
+            "text": "Largo winch",
+            "label": "MOVIE"
+          },
+          {
+            "text": "James Bond",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Tomer Sisley",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Largo",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "largo winch",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "tomer sisley",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "joy"
+      }
+    },
+    {
+      "id": "neg_642",
+      "ner": {
+        "entities": [
+          {
+            "text": "Largo",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Freddy",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Simon",
+            "label": "CHARACTER"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_643",
+      "ner": {
+        "entities": [
+          {
+            "text": "Largo Winch",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Tom",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Alien 4",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Alien 1",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Alien 2",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Alien 3",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "largo winch",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "tom",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "alien 4",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "alien 1",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "alien 2",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "alien 3",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_644",
+      "ner": {
+        "entities": [
+          {
+            "text": "Prom Night",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Jamie Lee Curtis",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Britney Snow",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Hairspray",
+            "label": "MOVIE"
+          },
+          {
+            "text": "OC",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Dawsons Creek",
+            "label": "MOVIE"
+          },
+          {
+            "text": "slasher",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "prom night",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "jamie lee curtis",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "britney snow",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "hairspray",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "oc",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "dawsons creek",
+            "sentiment": "positive"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_645",
+      "ner": {
+        "entities": [
+          {
+            "text": "slasher",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_646",
+      "ner": {
+        "entities": [
+          {
+            "text": "idris elba",
+            "label": "ACTOR"
+          },
+          {
+            "text": "scary move",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "idris elba",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "scary move",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_647",
+      "ner": {
+        "entities": []
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "script",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "ending",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_648",
+      "ner": {
+        "entities": [
+          {
+            "text": "Prom Night",
+            "label": "MOVIE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "prom night",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "characters",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "music",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    },
+    {
+      "id": "neg_649",
+      "ner": {
+        "entities": [
+          {
+            "text": "Prom night 1980",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Prom night 2008",
+            "label": "MOVIE"
+          },
+          {
+            "text": "slashers",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "prom night 1980",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "prom night 2008",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "anger"
+      }
+    },
+    {
+      "id": "neg_650",
+      "ner": {
+        "entities": [
+          {
+            "text": "The Texas Chainsaw Massacre",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Hills Have Eyes",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Prom Night",
+            "label": "MOVIE"
+          },
+          {
+            "text": "The Amityville Horror",
+            "label": "MOVIE"
+          },
+          {
+            "text": "Donna Keppel",
+            "label": "CHARACTER"
+          },
+          {
+            "text": "Brittany Snow",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Scott Porter",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Jessica Stroup",
+            "label": "ACTOR"
+          },
+          {
+            "text": "Dana Davis",
+            "label": "ACTOR"
+          },
+          {
+            "text": "McCormick",
+            "label": "DIRECTOR"
+          },
+          {
+            "text": "My Super Sweet 16",
+            "label": "MOVIE"
+          },
+          {
+            "text": "To Catch a Predator",
+            "label": "MOVIE"
+          },
+          {
+            "text": "horror",
+            "label": "GENRE"
+          },
+          {
+            "text": "slasher",
+            "label": "GENRE"
+          }
+        ]
+      },
+      "absa": {
+        "aspects": [
+          {
+            "aspect": "the texas chainsaw massacre",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "the hills have eyes",
+            "sentiment": "positive"
+          },
+          {
+            "aspect": "prom night",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "the amityville horror",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "brittany snow",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "scott porter",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "jessica stroup",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "dana davis",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "mccormick",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "my super sweet 16",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "to catch a predator",
+            "sentiment": "neutral"
+          },
+          {
+            "aspect": "acting",
+            "sentiment": "negative"
+          },
+          {
+            "aspect": "plot",
+            "sentiment": "negative"
+          }
+        ]
+      },
+      "emotion": {
+        "emotion": "disgust"
+      }
+    }
+  ]
+}
