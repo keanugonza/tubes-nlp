@@ -1,0 +1,3652 @@
+[
+  {
+    "id": "pos_601",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9911526441574097,
+        "word": "Michael Pollard",
+        "start": 279,
+        "end": 295
+      }
+    ],
+    "actors": [
+      "Michael Pollard"
+    ],
+    "fixed_aspects": [
+      "plot",
+      "cinematography",
+      "acting"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "Michael Pollard",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "cinematography",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_602",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "DIRECTOR",
+        "score": 0.9122870564460754,
+        "word": "Carlos Saura",
+        "start": 237,
+        "end": 250
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.6527535319328308,
+        "word": "Iberia",
+        "start": 405,
+        "end": 412
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "cinematography",
+      "music",
+      "ending"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "cinematography",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "music",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "ending",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "pos_603",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "DIRECTOR",
+        "score": 0.1776612550020218,
+        "word": "",
+        "start": 438,
+        "end": 439
+      },
+      {
+        "entity_group": "DIRECTOR",
+        "score": 0.6910669803619385,
+        "word": "Saura",
+        "start": 1047,
+        "end": 1053
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.4572337567806244,
+        "word": "\"",
+        "start": 1145,
+        "end": 1147
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "music",
+      "plot",
+      "ending"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "music",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "ending",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_604",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "DIRECTOR",
+        "score": 0.9121560454368591,
+        "word": "Carlos Saura",
+        "start": 141,
+        "end": 154
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "cinematography",
+      "music"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "cinematography",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "music",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_605",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.7360087037086487,
+        "word": "Amore Brujo",
+        "start": 409,
+        "end": 421
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.4778454303741455,
+        "word": "mé",
+        "start": 453,
+        "end": 455
+      },
+      {
+        "entity_group": "DIRECTOR",
+        "score": 0.4447879493236542,
+        "word": "Isaac",
+        "start": 661,
+        "end": 667
+      },
+      {
+        "entity_group": "DIRECTOR",
+        "score": 0.6599881052970886,
+        "word": "Antonio Gades",
+        "start": 2318,
+        "end": 2332
+      },
+      {
+        "entity_group": "DIRECTOR",
+        "score": 0.52204829454422,
+        "word": "Storaro",
+        "start": 2576,
+        "end": 2584
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "music",
+      "cinematography",
+      "plot"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "music",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "cinematography",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_606",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "DIRECTOR",
+        "score": 0.8268913626670837,
+        "word": "Saura",
+        "start": 20,
+        "end": 26
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9599831104278564,
+        "word": "Ibéria",
+        "start": 130,
+        "end": 137
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "music",
+      "cinematography"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "music",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "cinematography",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_607",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9793499112129211,
+        "word": "De Niro",
+        "start": 252,
+        "end": 260
+      }
+    ],
+    "actors": [
+      "De Niro"
+    ],
+    "fixed_aspects": [
+      "script",
+      "acting",
+      "cinematography"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "De Niro",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "script",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "cinematography",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_608",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "GENRE",
+        "score": 0.5403560400009155,
+        "word": "fantasy",
+        "start": 58,
+        "end": 66
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9916650056838989,
+        "word": "Claire Danes",
+        "start": 285,
+        "end": 298
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9912000298500061,
+        "word": "Michelle Pfeiffer",
+        "start": 415,
+        "end": 433
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9869497418403625,
+        "word": "Robert De Niro",
+        "start": 519,
+        "end": 534
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9535681009292603,
+        "word": "Stardust",
+        "start": 836,
+        "end": 845
+      }
+    ],
+    "actors": [
+      "Claire Danes",
+      "Michelle Pfeiffer",
+      "Robert De Niro"
+    ],
+    "fixed_aspects": [
+      "plot",
+      "script",
+      "cinematography"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "Claire Danes",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Michelle Pfeiffer",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Robert De Niro",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "script",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "cinematography",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_609",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "GENRE",
+        "score": 0.4932567775249481,
+        "word": "fairytale",
+        "start": 46,
+        "end": 56
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9429259896278381,
+        "word": "Stardust",
+        "start": 77,
+        "end": 86
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9940502643585205,
+        "word": "Claire Danes",
+        "start": 723,
+        "end": 736
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9912841320037842,
+        "word": "Michelle Pfeiffer",
+        "start": 792,
+        "end": 810
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9898690581321716,
+        "word": "Robert Deniro",
+        "start": 896,
+        "end": 910
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9928708076477051,
+        "word": "Charlie Cox",
+        "start": 956,
+        "end": 968
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9756435751914978,
+        "word": "Tristan",
+        "start": 980,
+        "end": 988
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9917376041412354,
+        "word": "Mark Strong",
+        "start": 1163,
+        "end": 1175
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.8954538106918335,
+        "word": "Jason Flemyng",
+        "start": 1176,
+        "end": 1190
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9776973724365234,
+        "word": "Ruppert Everett",
+        "start": 1195,
+        "end": 1211
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9929234385490417,
+        "word": "Peter O",
+        "start": 1291,
+        "end": 1299
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9383166432380676,
+        "word": "Toole",
+        "start": 1300,
+        "end": 1305
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9515429735183716,
+        "word": "Ricky Gervais",
+        "start": 1358,
+        "end": 1372
+      }
+    ],
+    "actors": [
+      "Claire Danes",
+      "Michelle Pfeiffer",
+      "Robert Deniro",
+      "Charlie Cox",
+      "Mark Strong",
+      "Jason Flemyng",
+      "Ruppert Everett",
+      "Peter O",
+      "Toole",
+      "Ricky Gervais"
+    ],
+    "fixed_aspects": [
+      "plot",
+      "acting",
+      "cinematography",
+      "script"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "Claire Danes",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Michelle Pfeiffer",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Robert Deniro",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Charlie Cox",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Mark Strong",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Jason Flemyng",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Ruppert Everett",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Peter O",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Toole",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Ricky Gervais",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "cinematography",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "script",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_610",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9331985712051392,
+        "word": "Stardust",
+        "start": 8,
+        "end": 17
+      },
+      {
+        "entity_group": "GENRE",
+        "score": 0.6543613076210022,
+        "word": "fantasy",
+        "start": 31,
+        "end": 39
+      },
+      {
+        "entity_group": "GENRE",
+        "score": 0.5082765221595764,
+        "word": "fairytale",
+        "start": 229,
+        "end": 239
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.8940114378929138,
+        "word": "Yvaine",
+        "start": 684,
+        "end": 691
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9717828035354614,
+        "word": "Victoria",
+        "start": 699,
+        "end": 708
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9935416579246521,
+        "word": "Claire Danes",
+        "start": 793,
+        "end": 806
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9171909093856812,
+        "word": "Cox",
+        "start": 923,
+        "end": 927
+      }
+    ],
+    "actors": [
+      "Claire Danes",
+      "Cox"
+    ],
+    "fixed_aspects": [
+      "ending",
+      "acting",
+      "plot",
+      "cinematography"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "Claire Danes",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Cox",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "ending",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "cinematography",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_611",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9858323335647583,
+        "word": "Rush Hour",
+        "start": 338,
+        "end": 347
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9813665151596069,
+        "word": "The Bourn Ultimatum",
+        "start": 402,
+        "end": 421
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.98004549741745,
+        "word": "The Simpsons Movie",
+        "start": 528,
+        "end": 546
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9850994348526001,
+        "word": "Stardust",
+        "start": 653,
+        "end": 661
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [],
+    "absa_predictions": []
+  },
+  {
+    "id": "pos_612",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9805203080177307,
+        "word": "\"Princess Bride",
+        "start": 89,
+        "end": 105
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.8890681862831116,
+        "word": "\"Stardust",
+        "start": 224,
+        "end": 234
+      },
+      {
+        "entity_group": "GENRE",
+        "score": 0.5389789938926697,
+        "word": "fantasy",
+        "start": 271,
+        "end": 279
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9884607195854187,
+        "word": "\"Return of the King",
+        "start": 1231,
+        "end": 1251
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "plot",
+      "script",
+      "acting",
+      "cinematography",
+      "music"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "plot",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "script",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "cinematography",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "music",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_613",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "GENRE",
+        "score": 0.5778058767318726,
+        "word": "fantasy",
+        "start": 214,
+        "end": 222
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9854376316070557,
+        "word": "StarDust",
+        "start": 386,
+        "end": 395
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.989562451839447,
+        "word": "Robert De Niro",
+        "start": 601,
+        "end": 616
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.990917444229126,
+        "word": "Michelle Pfeiffer",
+        "start": 712,
+        "end": 730
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9894522428512573,
+        "word": "Claire Danes",
+        "start": 756,
+        "end": 769
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.8781657218933105,
+        "word": "Yvaine",
+        "start": 824,
+        "end": 831
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9544599652290344,
+        "word": "Captain Shakespeare",
+        "start": 1314,
+        "end": 1334
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9367560148239136,
+        "word": "Lamia",
+        "start": 1350,
+        "end": 1356
+      }
+    ],
+    "actors": [
+      "Robert De Niro",
+      "Michelle Pfeiffer",
+      "Claire Danes"
+    ],
+    "fixed_aspects": [
+      "script",
+      "acting",
+      "plot"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "Robert De Niro",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Michelle Pfeiffer",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Claire Danes",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "script",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_614",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9776875972747803,
+        "word": "David Kelly",
+        "start": 1074,
+        "end": 1086
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.897669792175293,
+        "word": "Ben Barnes",
+        "start": 1124,
+        "end": 1135
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9268803000450134,
+        "word": "Una",
+        "start": 1307,
+        "end": 1311
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9633826017379761,
+        "word": "Tristan",
+        "start": 1645,
+        "end": 1653
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9694269895553589,
+        "word": "(",
+        "start": 1695,
+        "end": 1697
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9192302823066711,
+        "word": "Charlie Cox",
+        "start": 1697,
+        "end": 1708
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9038509130477905,
+        "word": "Victoria",
+        "start": 1825,
+        "end": 1834
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9840782880783081,
+        "word": "Sienna Miller",
+        "start": 1845,
+        "end": 1859
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9917073845863342,
+        "word": "Peter O",
+        "start": 2197,
+        "end": 2205
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.8487182259559631,
+        "word": "Toole",
+        "start": 2206,
+        "end": 2211
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9622582793235779,
+        "word": "Primus",
+        "start": 2327,
+        "end": 2334
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.8926610350608826,
+        "word": "Second",
+        "start": 2335,
+        "end": 2342
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.5172316431999207,
+        "word": "us",
+        "start": 2342,
+        "end": 2344
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.669110119342804,
+        "word": "Sextmus",
+        "start": 2345,
+        "end": 2353
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.7635745406150818,
+        "word": "Septimus",
+        "start": 2358,
+        "end": 2367
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.8173543810844421,
+        "word": "Yvaine",
+        "start": 2627,
+        "end": 2634
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9745201468467712,
+        "word": "(",
+        "start": 2634,
+        "end": 2636
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.966710090637207,
+        "word": "Clare Danes",
+        "start": 2636,
+        "end": 2647
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9192779064178467,
+        "word": "Lamia",
+        "start": 2798,
+        "end": 2804
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.689642071723938,
+        "word": "(",
+        "start": 2804,
+        "end": 2806
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9244109392166138,
+        "word": "Michelle Pfeiffer",
+        "start": 2806,
+        "end": 2823
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9905063509941101,
+        "word": "\"Pirates of the Caribbean",
+        "start": 3337,
+        "end": 3363
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9886388778686523,
+        "word": "Robert DeNiro",
+        "start": 3537,
+        "end": 3551
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.7886934280395508,
+        "word": "Claire",
+        "start": 3885,
+        "end": 3892
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.8970845341682434,
+        "word": "Jason Flemyng",
+        "start": 3985,
+        "end": 3999
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9851649403572083,
+        "word": "Adam Buston",
+        "start": 4000,
+        "end": 4012
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9923245906829834,
+        "word": "Rupert Everett",
+        "start": 4013,
+        "end": 4028
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9890587329864502,
+        "word": "Mark Strong",
+        "start": 4033,
+        "end": 4045
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.8797305822372437,
+        "word": "\"Blithe Spirit",
+        "start": 4139,
+        "end": 4154
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9543238282203674,
+        "word": "\"High Spirits",
+        "start": 4159,
+        "end": 4173
+      },
+      {
+        "entity_group": "DIRECTOR",
+        "score": 0.961194634437561,
+        "word": "Matthew Vaughn",
+        "start": 4193,
+        "end": 4208
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.8658108711242676,
+        "word": "\"Layer Cake",
+        "start": 4251,
+        "end": 4263
+      }
+    ],
+    "actors": [
+      "David Kelly",
+      "(",
+      "Charlie Cox",
+      "Sienna Miller",
+      "Peter O",
+      "Toole",
+      "Clare Danes",
+      "Michelle Pfeiffer",
+      "Robert DeNiro",
+      "Claire",
+      "Jason Flemyng",
+      "Adam Buston",
+      "Rupert Everett",
+      "Mark Strong"
+    ],
+    "fixed_aspects": [
+      "acting",
+      "script"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "David Kelly",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "(",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Charlie Cox",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Sienna Miller",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Peter O",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Toole",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Clare Danes",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Michelle Pfeiffer",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Robert DeNiro",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Claire",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Jason Flemyng",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Adam Buston",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Rupert Everett",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Mark Strong",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "script",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_615",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9546957612037659,
+        "word": "Danes",
+        "start": 106,
+        "end": 112
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9449606537818909,
+        "word": "Deniro",
+        "start": 113,
+        "end": 120
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9581797122955322,
+        "word": "Pfieffer",
+        "start": 124,
+        "end": 133
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9683400392532349,
+        "word": "Tristan",
+        "start": 194,
+        "end": 202
+      }
+    ],
+    "actors": [
+      "Danes",
+      "Deniro",
+      "Pfieffer"
+    ],
+    "fixed_aspects": [
+      "acting",
+      "ending"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "Danes",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Deniro",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Pfieffer",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "ending",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_616",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "GENRE",
+        "score": 0.4792591333389282,
+        "word": "fantasy",
+        "start": 79,
+        "end": 87
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9490494132041931,
+        "word": "\"",
+        "start": 193,
+        "end": 195
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9150866270065308,
+        "word": "Stardust",
+        "start": 195,
+        "end": 203
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9876835346221924,
+        "word": "Mirrormask",
+        "start": 352,
+        "end": 363
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9742608666419983,
+        "word": "Pan's Labyrinth",
+        "start": 397,
+        "end": 413
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9885468482971191,
+        "word": "The Princess Bride",
+        "start": 450,
+        "end": 469
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9700886607170105,
+        "word": "Tristan",
+        "start": 793,
+        "end": 801
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.8671314120292664,
+        "word": "Yvaine",
+        "start": 1032,
+        "end": 1039
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.980124831199646,
+        "word": "Robert DeNiro",
+        "start": 1414,
+        "end": 1428
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9466063976287842,
+        "word": "Brazil",
+        "start": 1838,
+        "end": 1845
+      }
+    ],
+    "actors": [
+      "Robert DeNiro"
+    ],
+    "fixed_aspects": [
+      "cinematography",
+      "plot"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "Robert DeNiro",
+        "sentiment": "neutral"
+      },
+      {
+        "aspect": "cinematography",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_617",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9789372682571411,
+        "word": "\"The Princess Bride",
+        "start": 63,
+        "end": 83
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9923075437545776,
+        "word": "Charlie Cox",
+        "start": 338,
+        "end": 350
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.98590487241745,
+        "word": "Tristan",
+        "start": 356,
+        "end": 364
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9894742369651794,
+        "word": "(",
+        "start": 394,
+        "end": 396
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.8519449234008789,
+        "word": "Sienna Miller",
+        "start": 396,
+        "end": 409
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9941583871841431,
+        "word": "Claire Danes",
+        "start": 494,
+        "end": 507
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9908784627914429,
+        "word": "Michelle Pfeiffer",
+        "start": 624,
+        "end": 642
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9771061539649963,
+        "word": "Peter O",
+        "start": 669,
+        "end": 677
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9011522531509399,
+        "word": "Toole",
+        "start": 678,
+        "end": 683
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.990374743938446,
+        "word": "Robert Deniro",
+        "start": 877,
+        "end": 891
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.965552568435669,
+        "word": "Captain Shakespeare",
+        "start": 897,
+        "end": 917
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9915719032287598,
+        "word": "Ricky Gervais",
+        "start": 1031,
+        "end": 1045
+      },
+      {
+        "entity_group": "DIRECTOR",
+        "score": 0.9580861330032349,
+        "word": "Matthew Vaughn",
+        "start": 1180,
+        "end": 1195
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.6619705557823181,
+        "word": "(",
+        "start": 1197,
+        "end": 1199
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9001093506813049,
+        "word": "\"Layer Cake",
+        "start": 1199,
+        "end": 1210
+      }
+    ],
+    "actors": [
+      "Charlie Cox",
+      "(",
+      "Sienna Miller",
+      "Claire Danes",
+      "Michelle Pfeiffer",
+      "Peter O",
+      "Toole",
+      "Robert Deniro",
+      "Ricky Gervais"
+    ],
+    "fixed_aspects": [
+      "plot"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "Charlie Cox",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "(",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "Sienna Miller",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Claire Danes",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Michelle Pfeiffer",
+        "sentiment": "neutral"
+      },
+      {
+        "aspect": "Peter O",
+        "sentiment": "neutral"
+      },
+      {
+        "aspect": "Toole",
+        "sentiment": "neutral"
+      },
+      {
+        "aspect": "Robert Deniro",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Ricky Gervais",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "pos_618",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.5264170169830322,
+        "word": "pan",
+        "start": 391,
+        "end": 395
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "cinematography",
+      "acting"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "cinematography",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_619",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9920880794525146,
+        "word": "Charlie Cox",
+        "start": 86,
+        "end": 98
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.993240237236023,
+        "word": "Claire Danes",
+        "start": 281,
+        "end": 294
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9925438761711121,
+        "word": "Romeo and Juliet",
+        "start": 331,
+        "end": 348
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9834852814674377,
+        "word": "Robert DeNiro",
+        "start": 542,
+        "end": 556
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9884870648384094,
+        "word": "Michelle Pfeiffer",
+        "start": 560,
+        "end": 578
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9423307180404663,
+        "word": "Septimus",
+        "start": 696,
+        "end": 705
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9614301919937134,
+        "word": "Hairspray",
+        "start": 811,
+        "end": 821
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9923520088195801,
+        "word": "Ricky Gervais",
+        "start": 1065,
+        "end": 1079
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9914427995681763,
+        "word": "Peter O",
+        "start": 1083,
+        "end": 1091
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.8756613731384277,
+        "word": "Toole",
+        "start": 1092,
+        "end": 1097
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9511752128601074,
+        "word": "the Princess Bride",
+        "start": 1191,
+        "end": 1210
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9922366142272949,
+        "word": "Lord of the Rings",
+        "start": 1218,
+        "end": 1236
+      }
+    ],
+    "actors": [
+      "Charlie Cox",
+      "Claire Danes",
+      "Robert DeNiro",
+      "Michelle Pfeiffer",
+      "Ricky Gervais",
+      "Peter O",
+      "Toole"
+    ],
+    "fixed_aspects": [
+      "acting",
+      "cinematography"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "Charlie Cox",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Claire Danes",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Robert DeNiro",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Michelle Pfeiffer",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Ricky Gervais",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Peter O",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Toole",
+        "sentiment": "neutral"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "cinematography",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_620",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9795628786087036,
+        "word": "Stardust",
+        "start": 22,
+        "end": 31
+      },
+      {
+        "entity_group": "DIRECTOR",
+        "score": 0.6809852123260498,
+        "word": "Neil Gaiman",
+        "start": 48,
+        "end": 60
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9845418334007263,
+        "word": "MirrorMask",
+        "start": 71,
+        "end": 82
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9830799102783203,
+        "word": "Labyrinth",
+        "start": 144,
+        "end": 154
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9765993356704712,
+        "word": "Princess Bride",
+        "start": 155,
+        "end": 170
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9866051077842712,
+        "word": "10th Kingdom",
+        "start": 173,
+        "end": 186
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9641879796981812,
+        "word": "Tristan",
+        "start": 422,
+        "end": 430
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.49161767959594727,
+        "word": "(",
+        "start": 430,
+        "end": 432
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.63443523645401,
+        "word": "Tristran",
+        "start": 432,
+        "end": 440
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "ending",
+      "plot",
+      "cinematography"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "ending",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "cinematography",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_621",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.7971821427345276,
+        "word": "Wall",
+        "start": 570,
+        "end": 575
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.992729127407074,
+        "word": "Rupert Everett",
+        "start": 831,
+        "end": 846
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9429106712341309,
+        "word": "David Walliams",
+        "start": 847,
+        "end": 862
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.8213141560554504,
+        "word": "Britain",
+        "start": 872,
+        "end": 880
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9823355674743652,
+        "word": "Green Wing",
+        "start": 909,
+        "end": 920
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9794712066650391,
+        "word": "Ricky Gervais",
+        "start": 1225,
+        "end": 1239
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9102437496185303,
+        "word": "David Brent",
+        "start": 1313,
+        "end": 1325
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.5349799394607544,
+        "word": "Office",
+        "start": 1334,
+        "end": 1341
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.8341485857963562,
+        "word": "Ferdy",
+        "start": 1525,
+        "end": 1531
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9928810000419617,
+        "word": "Charlie Cox",
+        "start": 1754,
+        "end": 1766
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9799837470054626,
+        "word": "Tristan",
+        "start": 1786,
+        "end": 1794
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9912341833114624,
+        "word": "Claire Danes",
+        "start": 1961,
+        "end": 1974
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.8559156060218811,
+        "word": "Yvaine",
+        "start": 1977,
+        "end": 1984
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9889656901359558,
+        "word": "Robert De Niro",
+        "start": 2096,
+        "end": 2111
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.990227222442627,
+        "word": "Michelle Pfeiffer",
+        "start": 2253,
+        "end": 2271
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9266740083694458,
+        "word": "Lamia",
+        "start": 2318,
+        "end": 2324
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9516499042510986,
+        "word": "\"Hairspray",
+        "start": 2435,
+        "end": 2446
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9595165252685547,
+        "word": "Stardust",
+        "start": 2590,
+        "end": 2599
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9783869981765747,
+        "word": "Princess Bride",
+        "start": 2797,
+        "end": 2812
+      }
+    ],
+    "actors": [
+      "Rupert Everett",
+      "David Walliams",
+      "Ricky Gervais",
+      "Charlie Cox",
+      "Claire Danes",
+      "Robert De Niro",
+      "Michelle Pfeiffer"
+    ],
+    "fixed_aspects": [
+      "cinematography",
+      "script",
+      "acting"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "Rupert Everett",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "David Walliams",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Ricky Gervais",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Charlie Cox",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Claire Danes",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Robert De Niro",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Michelle Pfeiffer",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "cinematography",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "script",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_622",
+    "emotion": "disgust",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9723216891288757,
+        "word": "Stardust",
+        "start": 61,
+        "end": 70
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9927247166633606,
+        "word": "Michelle Pfeiffer",
+        "start": 99,
+        "end": 117
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.8048530220985413,
+        "word": "Velma Von Tu",
+        "start": 200,
+        "end": 213
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.3729376196861267,
+        "word": "s",
+        "start": 213,
+        "end": 214
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.6318076848983765,
+        "word": "sle",
+        "start": 214,
+        "end": 217
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9764849543571472,
+        "word": "Hairspray",
+        "start": 220,
+        "end": 230
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.98980313539505,
+        "word": "Robert De Niro",
+        "start": 344,
+        "end": 359
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9932197332382202,
+        "word": "Claire Danes",
+        "start": 492,
+        "end": 505
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9932206869125366,
+        "word": "Rupert Everett",
+        "start": 506,
+        "end": 521
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9916609525680542,
+        "word": "Ricky Gervais",
+        "start": 522,
+        "end": 536
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9922420978546143,
+        "word": "Peter O",
+        "start": 537,
+        "end": 545
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9000956416130066,
+        "word": "Toole",
+        "start": 546,
+        "end": 551
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9920024871826172,
+        "word": "Sienna Miller",
+        "start": 664,
+        "end": 678
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9903823137283325,
+        "word": "Olivia Grant",
+        "start": 679,
+        "end": 692
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.8609806299209595,
+        "word": "Girl Bernard",
+        "start": 696,
+        "end": 709
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9888780117034912,
+        "word": "Kate Magowan",
+        "start": 715,
+        "end": 728
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9921360015869141,
+        "word": "Charlie Cox",
+        "start": 772,
+        "end": 784
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.98069167137146,
+        "word": "Tristan",
+        "start": 804,
+        "end": 812
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9754346013069153,
+        "word": "Dunstan",
+        "start": 850,
+        "end": 858
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9419305324554443,
+        "word": "Ben Barnes",
+        "start": 940,
+        "end": 951
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9888607859611511,
+        "word": "The Princess Bride",
+        "start": 989,
+        "end": 1008
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.8919974565505981,
+        "word": "PB",
+        "start": 1081,
+        "end": 1084
+      }
+    ],
+    "actors": [
+      "Michelle Pfeiffer",
+      "Robert De Niro",
+      "Claire Danes",
+      "Rupert Everett",
+      "Ricky Gervais",
+      "Peter O",
+      "Toole",
+      "Sienna Miller",
+      "Olivia Grant",
+      "Kate Magowan",
+      "Charlie Cox",
+      "Ben Barnes"
+    ],
+    "fixed_aspects": [],
+    "absa_predictions": [
+      {
+        "aspect": "Michelle Pfeiffer",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Robert De Niro",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Claire Danes",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Rupert Everett",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Ricky Gervais",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Peter O",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Toole",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Sienna Miller",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Olivia Grant",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Kate Magowan",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Charlie Cox",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Ben Barnes",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "pos_623",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9682209491729736,
+        "word": "Stardust",
+        "start": 66,
+        "end": 75
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9880466461181641,
+        "word": "The Princess Bride",
+        "start": 150,
+        "end": 169
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9934960603713989,
+        "word": "Michelle Pfeiffer",
+        "start": 365,
+        "end": 383
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9852322340011597,
+        "word": "Robert DeNiro",
+        "start": 387,
+        "end": 401
+      }
+    ],
+    "actors": [
+      "Michelle Pfeiffer",
+      "Robert DeNiro"
+    ],
+    "fixed_aspects": [
+      "characters"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "Michelle Pfeiffer",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Robert DeNiro",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "characters",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_624",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.8251938819885254,
+        "word": "Ella Enchanted",
+        "start": 322,
+        "end": 337
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9129723310470581,
+        "word": "Princess Bride",
+        "start": 579,
+        "end": 594
+      },
+      {
+        "entity_group": "GENRE",
+        "score": 0.41595324873924255,
+        "word": "Sci",
+        "start": 800,
+        "end": 804
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9907705783843994,
+        "word": "Bourne Ultimatum",
+        "start": 1091,
+        "end": 1108
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9555537104606628,
+        "word": "Stardust",
+        "start": 1120,
+        "end": 1129
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.8611837029457092,
+        "word": "Transformers",
+        "start": 1172,
+        "end": 1185
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.5720252990722656,
+        "word": "LotR",
+        "start": 1975,
+        "end": 1980
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.774572491645813,
+        "word": "(",
+        "start": 2380,
+        "end": 2382
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.6186198592185974,
+        "word": "Transformers",
+        "start": 2382,
+        "end": 2394
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.8002240657806396,
+        "word": "(",
+        "start": 3370,
+        "end": 3372
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.8548381924629211,
+        "word": "Princess Bride",
+        "start": 3372,
+        "end": 3386
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.986100971698761,
+        "word": "Black Cauldron",
+        "start": 3387,
+        "end": 3402
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9888238310813904,
+        "word": "The Dark Crystal",
+        "start": 3403,
+        "end": 3420
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "script",
+      "plot"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "script",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "pos_625",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.5870320200920105,
+        "word": "Stardust",
+        "start": 66,
+        "end": 75
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9938503503799438,
+        "word": "Charlie Cox",
+        "start": 493,
+        "end": 505
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.982572078704834,
+        "word": "Tristan",
+        "start": 519,
+        "end": 527
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9923229217529297,
+        "word": "Claire Daines",
+        "start": 528,
+        "end": 542
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.8382894396781921,
+        "word": "Yvaine",
+        "start": 558,
+        "end": 565
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9873852729797363,
+        "word": "Robert Di Nero",
+        "start": 570,
+        "end": 585
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.6484121084213257,
+        "word": "Capt",
+        "start": 644,
+        "end": 649
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.6647117137908936,
+        "word": "ian Shakespeare",
+        "start": 649,
+        "end": 664
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9399504065513611,
+        "word": "Shrek",
+        "start": 784,
+        "end": 790
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9063490033149719,
+        "word": "LOTR",
+        "start": 960,
+        "end": 965
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9568450450897217,
+        "word": "Star Wars",
+        "start": 968,
+        "end": 978
+      },
+      {
+        "entity_group": "GENRE",
+        "score": 0.4961800277233124,
+        "word": "SF",
+        "start": 978,
+        "end": 981
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9832632541656494,
+        "word": "Princess Bride",
+        "start": 1327,
+        "end": 1342
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.43539169430732727,
+        "word": "Storm",
+        "start": 1974,
+        "end": 1980
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9632156491279602,
+        "word": "The Sandman",
+        "start": 2251,
+        "end": 2263
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9888307452201843,
+        "word": "American Gods",
+        "start": 2264,
+        "end": 2278
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9895251989364624,
+        "word": "Coraline",
+        "start": 2279,
+        "end": 2288
+      }
+    ],
+    "actors": [
+      "Charlie Cox",
+      "Claire Daines",
+      "Robert Di Nero"
+    ],
+    "fixed_aspects": [
+      "script",
+      "characters",
+      "acting",
+      "cinematography",
+      "plot"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "Charlie Cox",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Claire Daines",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "Robert Di Nero",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "script",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "characters",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "cinematography",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "neg_601",
+    "emotion": "disgust",
+    "ner_results": [
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.8181073069572449,
+        "word": "He",
+        "start": 207,
+        "end": 210
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.5015826225280762,
+        "word": "or",
+        "start": 210,
+        "end": 212
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.5915672183036804,
+        "word": "ine",
+        "start": 212,
+        "end": 215
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9716519117355347,
+        "word": "DEATH LINE",
+        "start": 1331,
+        "end": 1342
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "plot",
+      "script"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "plot",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "script",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_602",
+    "emotion": "disgust",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9792530536651611,
+        "word": "Deathline",
+        "start": 408,
+        "end": 418
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "acting",
+      "characters",
+      "script"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "acting",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "characters",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "script",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_603",
+    "emotion": "disgust",
+    "ner_results": [],
+    "actors": [],
+    "fixed_aspects": [
+      "plot"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "plot",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_604",
+    "emotion": "disgust",
+    "ner_results": [
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.6851723194122314,
+        "word": "Dumb",
+        "start": 1306,
+        "end": 1311
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.6738947629928589,
+        "word": "Blonde",
+        "start": 1311,
+        "end": 1318
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "plot",
+      "acting"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "plot",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_605",
+    "emotion": "disgust",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9777464866638184,
+        "word": "\"",
+        "start": 171,
+        "end": 173
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.8397671580314636,
+        "word": "28 days later",
+        "start": 173,
+        "end": 186
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9386085867881775,
+        "word": "\"Blair Witch Project",
+        "start": 197,
+        "end": 218
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "cinematography",
+      "characters",
+      "plot"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "cinematography",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "characters",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_606",
+    "emotion": "disgust",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9691434502601624,
+        "word": "Creep",
+        "start": 30,
+        "end": 36
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "plot",
+      "characters"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "plot",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "characters",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_607",
+    "emotion": "disgust",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.935112714767456,
+        "word": "Deathline",
+        "start": 300,
+        "end": 310
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.95523601770401,
+        "word": "Raw Meat",
+        "start": 314,
+        "end": 323
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9904760122299194,
+        "word": "American Werewolf in London",
+        "start": 421,
+        "end": 449
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9652402997016907,
+        "word": "Creep",
+        "start": 585,
+        "end": 591
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.49479615688323975,
+        "word": "Potente",
+        "start": 1056,
+        "end": 1064
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9623960852622986,
+        "word": "Craig",
+        "start": 1308,
+        "end": 1314
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9822192192077637,
+        "word": "X Files",
+        "start": 1373,
+        "end": 1381
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9715654850006104,
+        "word": "Tombs",
+        "start": 1424,
+        "end": 1430
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9288451075553894,
+        "word": "Mulder",
+        "start": 1454,
+        "end": 1461
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.6252740621566772,
+        "word": "Scully",
+        "start": 1465,
+        "end": 1472
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9857079982757568,
+        "word": "Ken Campbell",
+        "start": 1957,
+        "end": 1970
+      }
+    ],
+    "actors": [
+      "Potente",
+      "Ken Campbell"
+    ],
+    "fixed_aspects": [
+      "plot",
+      "characters"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "Potente",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "Ken Campbell",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "characters",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_608",
+    "emotion": "disgust",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.8909780383110046,
+        "word": "Creep",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9807634353637695,
+        "word": "Kate",
+        "start": 21,
+        "end": 26
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9489469528198242,
+        "word": "(Potente",
+        "start": 26,
+        "end": 35
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.981540322303772,
+        "word": "Guy",
+        "start": 271,
+        "end": 275
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9838738441467285,
+        "word": "George",
+        "start": 451,
+        "end": 458
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9566898345947266,
+        "word": "(Blackwood",
+        "start": 458,
+        "end": 469
+      }
+    ],
+    "actors": [
+      "(Potente",
+      "(Blackwood"
+    ],
+    "fixed_aspects": [
+      "plot",
+      "characters"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "(Potente",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "(Blackwood",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "characters",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_609",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9865376949310303,
+        "word": "Christopher Walken",
+        "start": 59,
+        "end": 78
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9926608204841614,
+        "word": "Michael Ironside",
+        "start": 81,
+        "end": 98
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9881076216697693,
+        "word": "Maria Conchita Alonso",
+        "start": 407,
+        "end": 429
+      }
+    ],
+    "actors": [
+      "Christopher Walken",
+      "Michael Ironside",
+      "Maria Conchita Alonso"
+    ],
+    "fixed_aspects": [
+      "acting",
+      "plot"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "Christopher Walken",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "Michael Ironside",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "Maria Conchita Alonso",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_610",
+    "emotion": "disgust",
+    "ner_results": [
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9821942448616028,
+        "word": "Christopher Walken",
+        "start": 236,
+        "end": 255
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.8925403356552124,
+        "word": "\"McBain\"",
+        "start": 1556,
+        "end": 1565
+      }
+    ],
+    "actors": [
+      "Christopher Walken"
+    ],
+    "fixed_aspects": [
+      "acting",
+      "script",
+      "plot"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "Christopher Walken",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "script",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_611",
+    "emotion": "disgust",
+    "ner_results": [
+      {
+        "entity_group": "DIRECTOR",
+        "score": 0.9362041354179382,
+        "word": "James Glickenhaus",
+        "start": 108,
+        "end": 126
+      },
+      {
+        "entity_group": "DIRECTOR",
+        "score": 0.8896914124488831,
+        "word": "McBain",
+        "start": 136,
+        "end": 143
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.987089216709137,
+        "word": "The Exterminator",
+        "start": 248,
+        "end": 265
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9678748846054077,
+        "word": "Victor Argo",
+        "start": 543,
+        "end": 555
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.8744919896125793,
+        "word": "'",
+        "start": 575,
+        "end": 577
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.6454213261604309,
+        "word": "El Presidente",
+        "start": 577,
+        "end": 590
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9863002300262451,
+        "word": "Maria Conchita Alonso",
+        "start": 613,
+        "end": 635
+      }
+    ],
+    "actors": [
+      "Victor Argo",
+      "Maria Conchita Alonso"
+    ],
+    "fixed_aspects": [
+      "plot"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "Victor Argo",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "Maria Conchita Alonso",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_612",
+    "emotion": "disgust",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9853056073188782,
+        "word": "SCARECROW",
+        "start": 21,
+        "end": 31
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "characters"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "characters",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_613",
+    "emotion": "disgust",
+    "ner_results": [],
+    "actors": [],
+    "fixed_aspects": [
+      "plot"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "plot",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_614",
+    "emotion": "anger",
+    "ner_results": [
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.46425849199295044,
+        "word": "Jason",
+        "start": 642,
+        "end": 648
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "cinematography",
+      "acting",
+      "music"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "cinematography",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "music",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "neg_615",
+    "emotion": "joy",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9726893901824951,
+        "word": "Scarecrow Slayer",
+        "start": 309,
+        "end": 326
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9861302375793457,
+        "word": "The Ring",
+        "start": 454,
+        "end": 463
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9851235151290894,
+        "word": "The Exorcist of Emily Rose",
+        "start": 467,
+        "end": 494
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.967526912689209,
+        "word": "\"Children Of The Corn",
+        "start": 791,
+        "end": 813
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "acting",
+      "script"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "acting",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "script",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_616",
+    "emotion": "disgust",
+    "ner_results": [],
+    "actors": [],
+    "fixed_aspects": [
+      "plot",
+      "script"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "plot",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "script",
+        "sentiment": "positive"
+      }
+    ]
+  },
+  {
+    "id": "neg_617",
+    "emotion": "disgust",
+    "ner_results": [
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.972966194152832,
+        "word": "Scarecrow",
+        "start": 587,
+        "end": 597
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9802913665771484,
+        "word": "Lester",
+        "start": 694,
+        "end": 701
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "plot",
+      "acting"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "plot",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_618",
+    "emotion": "disgust",
+    "ner_results": [
+      {
+        "entity_group": "GENRE",
+        "score": 0.5883663892745972,
+        "word": "slasher",
+        "start": 32,
+        "end": 40
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.8800263404846191,
+        "word": "scarecrow",
+        "start": 468,
+        "end": 478
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9704378247261047,
+        "word": "Freddy",
+        "start": 567,
+        "end": 574
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.8720681667327881,
+        "word": "Pinhead",
+        "start": 577,
+        "end": 585
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.7758866548538208,
+        "word": "The Scarecrow",
+        "start": 604,
+        "end": 618
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9675037860870361,
+        "word": "Lester",
+        "start": 887,
+        "end": 894
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "acting",
+      "characters",
+      "script"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "acting",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "characters",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "script",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_619",
+    "emotion": "disgust",
+    "ner_results": [],
+    "actors": [],
+    "fixed_aspects": [
+      "acting"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "acting",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_620",
+    "emotion": "disgust",
+    "ner_results": [
+      {
+        "entity_group": "MOVIE",
+        "score": 0.8712267875671387,
+        "word": "Scarecreow",
+        "start": 99,
+        "end": 110
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.7272680401802063,
+        "word": "Scarecrow",
+        "start": 122,
+        "end": 132
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "plot",
+      "acting",
+      "script",
+      "cinematography"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "plot",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "script",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "cinematography",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_621",
+    "emotion": "anger",
+    "ner_results": [
+      {
+        "entity_group": "DIRECTOR",
+        "score": 0.44441238045692444,
+        "word": "King",
+        "start": 827,
+        "end": 832
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "acting",
+      "plot"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "acting",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_622",
+    "emotion": "disgust",
+    "ner_results": [],
+    "actors": [],
+    "fixed_aspects": [
+      "plot",
+      "script"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "plot",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "script",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_623",
+    "emotion": "disgust",
+    "ner_results": [
+      {
+        "entity_group": "ACTOR",
+        "score": 0.46962106227874756,
+        "word": "Tim Young",
+        "start": 104,
+        "end": 113
+      },
+      {
+        "entity_group": "DIRECTOR",
+        "score": 0.759813129901886,
+        "word": "Emmanuel Itier",
+        "start": 754,
+        "end": 769
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.3981580138206482,
+        "word": "Du",
+        "start": 857,
+        "end": 860
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.39542096853256226,
+        "word": "Bill Cunningham",
+        "start": 1133,
+        "end": 1149
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9246460199356079,
+        "word": "Jason White",
+        "start": 1151,
+        "end": 1163
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9641428589820862,
+        "word": "The Matrix",
+        "start": 2724,
+        "end": 2735
+      },
+      {
+        "entity_group": "GENRE",
+        "score": 0.4964293837547302,
+        "word": "kung",
+        "start": 2759,
+        "end": 2764
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9614782333374023,
+        "word": "Scarecrows",
+        "start": 4468,
+        "end": 4479
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9862017035484314,
+        "word": "Gene Hackman",
+        "start": 4515,
+        "end": 4528
+      },
+      {
+        "entity_group": "ACTOR",
+        "score": 0.9871768355369568,
+        "word": "Al Pacino",
+        "start": 4530,
+        "end": 4540
+      },
+      {
+        "entity_group": "GENRE",
+        "score": 0.5344973802566528,
+        "word": "horror",
+        "start": 4578,
+        "end": 4585
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.949449896812439,
+        "word": "Scarecrow Slayer",
+        "start": 4733,
+        "end": 4750
+      },
+      {
+        "entity_group": "MOVIE",
+        "score": 0.9767853617668152,
+        "word": "Scarecrow Gone Wild",
+        "start": 4759,
+        "end": 4779
+      }
+    ],
+    "actors": [
+      "Tim Young",
+      "Bill Cunningham",
+      "Jason White",
+      "Gene Hackman",
+      "Al Pacino"
+    ],
+    "fixed_aspects": [
+      "script",
+      "plot",
+      "characters",
+      "acting",
+      "ending"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "Tim Young",
+        "sentiment": "neutral"
+      },
+      {
+        "aspect": "Bill Cunningham",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "Jason White",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "Gene Hackman",
+        "sentiment": "neutral"
+      },
+      {
+        "aspect": "Al Pacino",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "script",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "plot",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "characters",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "ending",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_624",
+    "emotion": "disgust",
+    "ner_results": [
+      {
+        "entity_group": "DIRECTOR",
+        "score": 0.918923020362854,
+        "word": "Dario Argento",
+        "start": 134,
+        "end": 148
+      },
+      {
+        "entity_group": "DIRECTOR",
+        "score": 0.8938376903533936,
+        "word": "George A",
+        "start": 192,
+        "end": 201
+      },
+      {
+        "entity_group": "DIRECTOR",
+        "score": 0.883189857006073,
+        "word": "Romero",
+        "start": 202,
+        "end": 209
+      },
+      {
+        "entity_group": "DIRECTOR",
+        "score": 0.7820590138435364,
+        "word": "Tobe Hooper",
+        "start": 213,
+        "end": 225
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "acting"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "acting",
+        "sentiment": "negative"
+      }
+    ]
+  },
+  {
+    "id": "neg_625",
+    "emotion": "disgust",
+    "ner_results": [
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.8900833129882812,
+        "word": "scarecrow",
+        "start": 325,
+        "end": 335
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.9378483295440674,
+        "word": "lest",
+        "start": 689,
+        "end": 694
+      },
+      {
+        "entity_group": "CHARACTER",
+        "score": 0.766209065914154,
+        "word": "er",
+        "start": 694,
+        "end": 696
+      }
+    ],
+    "actors": [],
+    "fixed_aspects": [
+      "characters",
+      "acting"
+    ],
+    "absa_predictions": [
+      {
+        "aspect": "characters",
+        "sentiment": "negative"
+      },
+      {
+        "aspect": "acting",
+        "sentiment": "negative"
+      }
+    ]
+  }
+]
