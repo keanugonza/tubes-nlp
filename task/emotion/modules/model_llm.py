@@ -1,5 +1,6 @@
 import torch
 import os
+from sklearn.metrics import classification_report
 from transformers import (
     AutoTokenizer, 
     AutoModelForSequenceClassification, 
@@ -18,6 +19,7 @@ class LLMLabeler:
         self.model_name = model_name
         self.num_labels = num_labels
         self.label_names = label_names
+        self.trainer = None
         
         print(f"Loading Tokenizer: {model_name}...")
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -117,6 +119,33 @@ class LLMLabeler:
         
         self.trainer.train()
         print("LoRA Training Complete.")
+
+    def evaluate_with_trainer(self, test_df: pd.DataFrame):
+        """
+        Uses the internal Trainer to predict and print the classification report 
+        in the specific format requested.
+        """
+        if self.trainer is None:
+            raise ValueError("Trainer has not been initialized. Run .train() first.")
+
+        print("Running evaluation on Test Set...")
+        
+        test_ds = Dataset.from_pandas(test_df[['text', 'label']])
+        eval_dataset = test_ds.map(self._tokenize_function, batched=True)
+
+        preds_output = self.trainer.predict(eval_dataset)
+
+        preds = np.argmax(preds_output.predictions, axis=1)
+        labels_np = preds_output.label_ids
+
+        print("\n=== Classification Report ===")
+        print(classification_report(
+            labels_np, 
+            preds, 
+            target_names=self.label_names, 
+            digits=4,
+            zero_division=0
+        ))
 
     def save_model(self, path: str):
         """

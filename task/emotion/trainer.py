@@ -1,12 +1,14 @@
 from modules.data_utils import DataManager
 from modules.model_classical import ClassicalMLLabeler
 from modules.model_llm import LLMLabeler
-from sklearn.metrics import classification_report
 import os
 
 # --- CONFIGURATION ---
 TEXT_FILE = "text_all_merged.json"
 LABEL_FILE = "label_all_merged.json"
+
+EXTERNAL_TEXT_FILE = "test_text.json"
+EXTERNAL_LABEL_FILE = "test_label.json"
 
 def main():
     # 1. Load and Merge Data
@@ -38,20 +40,34 @@ def main():
     # SAVE THE MODEL
     dl_model.save_model("./saved_emotion_lora")
     
-    # Evaluate
-    print("\n--- Deep Learning Report ---")
-    dl_preds = dl_model.predict(test_df['text'].tolist())
+    dl_model.evaluate_with_trainer(test_df)
+
+    # 4. EXTERNAL TEST SET EVALUATION
+    print("\n--- Phase 4: External Test Set Evaluation ---")
     
-    unique_labels = sorted(test_df['label'].unique())
-    filtered_names = [target_names[i] for i in unique_labels]
-    
-    print(classification_report(
-        test_df['label'], 
-        dl_preds, 
-        labels=unique_labels, 
-        target_names=filtered_names, 
-        zero_division=0
-    ))
+    if os.path.exists(EXTERNAL_TEXT_FILE) and os.path.exists(EXTERNAL_LABEL_FILE):
+        try:
+            # Reuse DataManager logic to load the new files
+            dm_ext = DataManager(EXTERNAL_TEXT_FILE, EXTERNAL_LABEL_FILE)
+            external_df = dm_ext.load_data()
+            
+            if not external_df.empty:
+                print(f"Successfully loaded {len(external_df)} external test samples.")
+                
+                # 1. Evaluate Classical Model
+                print("\n>>> [External Test] Classical Model (SVM):")
+                ml_model.evaluate(external_df, target_names)
+                
+                # 2. Evaluate LLM
+                print("\n>>> [External Test] LLM (Qwen LoRA):")
+                dl_model.evaluate_with_trainer(external_df)
+            else:
+                print("External dataset loaded but resulted in 0 valid samples (check IDs/Labels match).")
+                
+        except Exception as e:
+            print(f"Error processing external data: {e}")
+    else:
+        print(f"External test files not found ({EXTERNAL_TEXT_FILE}, {EXTERNAL_LABEL_FILE}). Skipping Phase 4.")
 
 if __name__ == "__main__":
     main()
