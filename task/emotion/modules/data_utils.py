@@ -70,27 +70,58 @@ class DataManager:
         print(f"Loaded {len(df)} valid samples.")
         return df
 
+    def balance_training_data(self, df: pd.DataFrame) -> pd.DataFrame:
+        """
+        Balances the DataFrame by upsampling (copying) minority classes 
+        to match the majority class count.
+        """
+        if df.empty:
+            return df
+
+        max_count = df['label'].value_counts().max()
+        
+        balanced_dfs = []
+        
+        for label_id in df['label'].unique():
+            class_subset = df[df['label'] == label_id]
+            current_count = len(class_subset)
+            
+            balanced_dfs.append(class_subset)
+            
+            if current_count < max_count:
+                diff = max_count - current_count
+                upsampled = class_subset.sample(
+                    n=diff, 
+                    replace=True, 
+                    random_state=42
+                )
+                balanced_dfs.append(upsampled)
+        
+        balanced_df = pd.concat(balanced_dfs).sample(frac=1, random_state=42).reset_index(drop=True)
+        
+        print(f"Data Balancing: Increased training size from {len(df)} to {len(balanced_df)} samples.")
+        return balanced_df
+
     def get_splits(self, test_size=0.2) -> Tuple[pd.DataFrame, pd.DataFrame]:
-        """Returns stratified Train and Test sets, handling rare classes."""
+        """Returns stratified Train and Test sets, with balancing applied to Train."""
         df = self.load_data()
         
-        # --- FIX START ---
-        # Check for classes with fewer than 2 samples
         label_counts = df['label'].value_counts()
-        rare_labels = label_counts[label_counts < 2].index
+        single_sample_labels = label_counts[label_counts < 2].index
         
-        if len(rare_labels) > 0:
-            rare_names = [self.id_to_label[i] for i in rare_labels]
-            print(f"Warning: Dropping {len(rare_labels)} rare classes with only 1 sample: {rare_names}")
-            # Filter them out so stratify doesn't crash
-            df = df[~df['label'].isin(rare_labels)].copy()
-        # --- FIX END ---
+        if len(single_sample_labels) > 0:
+            print(f"Augmenting {len(single_sample_labels)} rare classes (count < 2) for split safety.")
+            rare_rows = df[df['label'].isin(single_sample_labels)]
+            df = pd.concat([df, rare_rows], ignore_index=True)
 
-        # Now split safely
         train_df, test_df = train_test_split(
             df, 
             test_size=test_size, 
             stratify=df['label'], 
             random_state=42
         )
+        
+        print("Applying data balancing to Training set...")
+        train_df = self.balance_training_data(train_df)
+        
         return train_df, test_df
