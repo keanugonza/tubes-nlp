@@ -4,9 +4,6 @@ from sklearn.model_selection import train_test_split
 from typing import Tuple, Dict, List, Optional
 
 class DataManager:
-    """
-    Handles loading, merging, and splitting of IMDB emotion data.
-    """
     def __init__(self, text_json_path: str, label_json_path: str):
         self.text_json_path = text_json_path
         self.label_json_path = label_json_path
@@ -33,7 +30,7 @@ class DataManager:
         except FileNotFoundError:
             raise FileNotFoundError(f"Could not find text file: {self.text_json_path}")
 
-        text_lookup = {item['id']: item['text'] for item in reviews if 'id' in item and 'text' in item}
+        text_lookup = {item['id']: item['text'] for item in reviews if 'id' in item}
 
         # 2. Load Labels
         try:
@@ -41,17 +38,13 @@ class DataManager:
                 label_data = json.load(f)
                 results = label_data.get('results', [])
         except FileNotFoundError:
-            raise FileNotFoundError(f"Could not find label file: {self.label_json_path}")
+            raise FileNotFoundError(f"Could not find {self.label_json_path}")
 
         # 3. Merge
         merged_data = []
         for item in results:
             item_id = item.get('id')
-            try:
-                label_str = item.get('emotion', {}).get('emotion')
-            except AttributeError:
-                continue
-
+            label_str = item.get('emotion', {}).get('emotion')
             text_content = text_lookup.get(item_id)
 
             if item_id and label_str and text_content:
@@ -62,35 +55,43 @@ class DataManager:
                 })
 
         df = pd.DataFrame(merged_data)
-        
-        # 4. Map Labels
         df = df[df['label_str'].isin(self.label_map.keys())].copy()
         df['label'] = df['label_str'].map(self.label_map).astype(int)
         
         print(f"Loaded {len(df)} valid samples.")
         return df
 
+    def balance_training_data(self, df: pd.DataFrame) -> pd.DataFrame:
+        """Upsamples minority classes to match majority class count."""
+        if df.empty: return df
+        
+        max_count = df['label'].value_counts().max()
+        balanced_dfs = []
+        
+        for label_id in df['label'].unique():
+            class_subset = df[df['label'] == label_id]
+            balanced_dfs.append(class_subset) # Add original
+            
+            if len(class_subset) < max_count:
+                diff = max_count - len(class_subset)
+                upsampled = class_subset.sample(n=diff, replace=True, random_state=42)
+                balanced_dfs.append(upsampled)
+        
+        balanced_df = pd.concat(balanced_dfs).sample(frac=1, random_state=42).reset_index(drop=True)
+        print(f"Data Balancing: Increased size from {len(df)} to {len(balanced_df)} samples.")
+        return balanced_df
+
     def get_splits(self, test_size=0.2) -> Tuple[pd.DataFrame, pd.DataFrame]:
         """Returns stratified Train and Test sets, handling rare classes."""
         df = self.load_data()
         
-        # --- FIX START ---
-        # Check for classes with fewer than 2 samples
         label_counts = df['label'].value_counts()
         rare_labels = label_counts[label_counts < 2].index
-        
         if len(rare_labels) > 0:
-            rare_names = [self.id_to_label[i] for i in rare_labels]
-            print(f"Warning: Dropping {len(rare_labels)} rare classes with only 1 sample: {rare_names}")
-            # Filter them out so stratify doesn't crash
-            df = df[~df['label'].isin(rare_labels)].copy()
-        # --- FIX END ---
+            rare_rows = df[df['label'].isin(rare_labels)]
+            df = pd.concat([df, rare_rows], ignore_index=True)
 
-        # Now split safely
         train_df, test_df = train_test_split(
-            df, 
-            test_size=test_size, 
-            stratify=df['label'], 
-            random_state=42
+            df, test_size=test_size, stratify=df['label'], random_state=42
         )
         return train_df, test_df

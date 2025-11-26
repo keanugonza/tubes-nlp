@@ -51,5 +51,12 @@ class ClassicalMLLabeler:
     def evaluate(self, test_df: pd.DataFrame, target_names: list):
         """Prints classification report."""
         preds = self.predict(test_df['text'])
-        print("\n--- Classical Model Performance ---")
-        print(classification_report(test_df['label'], preds, target_names=target_names, zero_division=0))
+        
+        print("\n=== Classification Report ===")
+        print(classification_report(
+            test_df['label'], 
+            preds, 
+            target_names=target_names, 
+            digits=4, 
+            zero_division=0
+        ))
